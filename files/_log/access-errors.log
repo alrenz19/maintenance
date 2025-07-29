@@ -1,0 +1,505 @@
+2023-08-10 14:05:38 [7@adminNAS]
+CSRF check failed for User ID: 7 at /front/ticket.form.php2023-08-10 14:47:01 [2@adminNAS]
+CSRF check failed for User ID: 2 at /front/notificationajaxsetting.form.php2023-08-10 15:48:27 [@adminNAS]
+CSRF check failed for User ID:  at /front/login.php2023-08-14 10:58:59 [2@adminNAS]
+CSRF check failed for User ID: 2 at /front/profile_user.form.php2023-08-14 14:08:37 [@adminNAS]
+CSRF check failed for User ID:  at /front/login.php2023-08-14 14:14:49 [@adminNAS]
+CSRF check failed for User ID:  at /front/login.php2023-08-14 14:20:56 [@adminNAS]
+CSRF check failed for User ID:  at /front/login.php2023-08-16 14:35:53 [@adminNAS]
+CSRF check failed for User ID:  at /front/login.php2023-08-16 14:35:57 [@adminNAS]
+CSRF check failed for User ID:  at /front/login.php2023-08-17 17:56:09 [7@adminNAS]
+User ID: 7 tried to access or perform an action on /front/group_user.form.php with insufficient rights. Additional information: User failed a can* method check for right 4 (CREATE) on item Type: Group_User ID: -1
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:3018 displayRightError()
+		/volume1/web/glpi/front/group_user.form.php:49 check()
+2023-08-18 14:50:02 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/actors.php2023-08-18 14:50:02 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/actors.php2023-08-19 17:28:12 [17@adminNAS]
+User ID: 17 tried to access or perform an action on /front/user.form.php?id=17 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-08-22 11:20:24 [2@adminNAS]
+CSRF check failed for User ID: 2 at /front/group.form.php2023-08-22 11:20:29 [2@adminNAS]
+CSRF check failed for User ID: 2 at /front/group.form.php2023-08-22 14:29:31 [17@adminNAS]
+CSRF check failed for User ID: 17 at /front/ticket.form.php2023-08-22 14:29:36 [17@adminNAS]
+CSRF check failed for User ID: 17 at /front/ticket.form.php2023-08-22 16:20:14 [17@adminNAS]
+User ID: 17 tried to access or perform an action on /front/user.form.php?id=7 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-08-25 17:15:13 [14@adminNAS]
+User ID: 14 tried to access or perform an action on /front/document_item.form.php with insufficient rights. Additional information: User failed a can* method check for right 4 (CREATE) on item Type: Document_Item ID: -1
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:3018 displayRightError()
+		/volume1/web/glpi/front/document_item.form.php:49 check()
+2023-08-25 17:34:26 [14@adminNAS]
+CSRF check failed for User ID: 14 at /front/document.form.php2023-08-29 14:37:24 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/central.php2023-08-29 14:37:24 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/central.php2023-08-29 14:37:24 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/central.php2023-08-29 14:37:24 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/central.php2023-08-29 14:37:24 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/central.php2023-08-29 14:43:06 [@adminNAS]
+CSRF check failed for User ID:  at /front/login.php2023-08-29 14:43:19 [@adminNAS]
+CSRF check failed for User ID:  at /front/login.php2023-08-29 14:49:59 [2@adminNAS]
+CSRF check failed for User ID: 2 at /front/group.form.php2023-08-29 14:49:59 [2@adminNAS]
+CSRF check failed for User ID: 2 at /front/group.form.php2023-08-29 14:50:05 [2@adminNAS]
+User ID: 2 tried to access a non-existent item /front/group.form.php?id=63. Additional information: The item could not be found in the database
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6359 displayNotFoundError()
+		/volume1/web/glpi/src/CommonDBTM.php:6470 displayItemNotFoundPage()
+		/volume1/web/glpi/front/group.form.php:123 displayFullPageForItem()
+2023-08-29 17:11:14 [14@adminNAS]
+User ID: 14 tried to access or perform an action on /front/group.php?as_map=0&browse=0&criteria%5B0%5D%5Blink%5D=AND&criteria%5B0%5D%5Bfield%5D=view&criteria%5B0%5D%5Bsearchtype%5D=contains&criteria%5B0%5D%5Bvalue%5D=&itemtype=Group&start=20&_glpi_csrf_token=ac3edf7c9b37bb43bbe022f2fb4d9ef5a8ece5c38b8f3b6bbf3f01513038cc33&sort%5B%5D=1&order%5B%5D=ASC with insufficient rights. Additional information: User is missing the 1 (Read) right for group
+	Stack Trace:
+		/volume1/web/glpi/src/Session.php:1109 displayRightError()
+		/volume1/web/glpi/front/group.php:38 checkRight()
+2023-08-29 17:11:18 [14@adminNAS]
+User ID: 14 tried to access or perform an action on /front/user.php with insufficient rights. Additional information: User is missing the 1 (Read) right for user
+	Stack Trace:
+		/volume1/web/glpi/src/Session.php:1109 displayRightError()
+		/volume1/web/glpi/front/user.php:38 checkRight()
+2023-08-29 17:11:21 [14@adminNAS]
+User ID: 14 tried to access or perform an action on /front/group.php with insufficient rights. Additional information: User is missing the 1 (Read) right for group
+	Stack Trace:
+		/volume1/web/glpi/src/Session.php:1109 displayRightError()
+		/volume1/web/glpi/front/group.php:38 checkRight()
+2023-08-29 17:24:32 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownValue.php2023-08-29 17:24:34 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownValue.php2023-08-29 17:24:35 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownValue.php2023-08-29 17:24:37 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php with insufficient rights. Additional information: Missing CREATE right. Cannot view the new item form.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6460 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-08-29 17:24:40 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php with insufficient rights. Additional information: Missing CREATE right. Cannot view the new item form.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6460 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-08-29 17:26:38 [@adminNAS]
+CSRF check failed for User ID:  at /front/lostpassword.php2023-08-29 17:43:32 [12@adminNAS]
+CSRF check failed for User ID: 12 at /front/document.form.php2023-08-29 19:05:23 [10@adminNAS]
+CSRF check failed for User ID: 10 at /front/document.form.php2023-08-29 19:05:27 [10@adminNAS]
+CSRF check failed for User ID: 10 at /front/document.form.php2023-08-30 08:22:07 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php with insufficient rights. Additional information: Missing CREATE right. Cannot view the new item form.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6460 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-08-31 17:18:54 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php with insufficient rights. Additional information: Missing CREATE right. Cannot view the new item form.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6460 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-08-31 17:18:58 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php with insufficient rights. Additional information: Missing CREATE right. Cannot view the new item form.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6460 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-08-31 18:20:05 [16@adminNAS]
+CSRF check failed for User ID: 16 at /front/document.form.php2023-08-31 18:26:21 [14@adminNAS]
+CSRF check failed for User ID: 14 at /front/document.form.php2023-08-31 18:26:21 [14@adminNAS]
+CSRF check failed for User ID: 14 at /front/document.form.php2023-08-31 19:14:06 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-08-31 19:15:04 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-08-31 19:15:54 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/document.form.php2023-08-31 19:37:09 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-09-01 18:44:44 [14@adminNAS]
+CSRF check failed for User ID: 14 at /front/document.form.php2023-09-02 08:20:00 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=186 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-09-04 10:02:08 [7@adminNAS]
+CSRF check failed for User ID: 7 at /front/profile.form.php2023-09-04 14:01:42 [7@adminNAS]
+CSRF check failed for User ID: 7 at /front/massiveaction.php2023-09-04 14:13:45 [7@adminNAS]
+CSRF check failed for User ID: 7 at /front/profile.form.php2023-09-04 17:53:20 [10@adminNAS]
+CSRF check failed for User ID: 10 at /front/document.form.php2023-09-04 17:53:25 [10@adminNAS]
+CSRF check failed for User ID: 10 at /front/document.form.php2023-09-04 18:03:11 [14@adminNAS]
+CSRF check failed for User ID: 14 at /front/document.form.php2023-09-04 19:09:54 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-09-05 18:00:16 [12@adminNAS]
+CSRF check failed for User ID: 12 at /front/document.form.php2023-09-06 18:30:40 [13@adminNAS]
+CSRF check failed for User ID: 13 at /front/document.form.php2023-09-06 18:38:16 [@adminNAS]
+CSRF check failed for User ID:  at /front/item_operatingsystem.form.php2023-09-06 18:38:20 [@adminNAS]
+CSRF check failed for User ID:  at /front/item_operatingsystem.form.php2023-09-06 18:38:54 [@adminNAS]
+CSRF check failed for User ID:  at /front/user.form.php2023-09-06 19:13:34 [@adminNAS]
+CSRF check failed for User ID:  at /front/user.form.php2023-09-07 08:26:15 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=327 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-09-07 08:36:11 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=327 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-09-07 08:47:13 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=327 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-09-07 17:53:24 [14@adminNAS]
+CSRF check failed for User ID: 14 at /front/document.form.php2023-09-07 18:00:48 [14@adminNAS]
+CSRF check failed for User ID: 14 at /front/document.form.php2023-09-07 18:07:28 [13@adminNAS]
+CSRF check failed for User ID: 13 at /front/document.form.php2023-09-11 17:44:40 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-09-12 17:23:00 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-09-12 17:41:26 [10@adminNAS]
+CSRF check failed for User ID: 10 at /front/profile_user.form.php2023-09-12 17:41:30 [10@adminNAS]
+CSRF check failed for User ID: 10 at /front/profile_user.form.php2023-09-12 17:49:10 [16@adminNAS]
+CSRF check failed for User ID: 16 at /front/login.php2023-09-12 17:49:20 [16@adminNAS]
+CSRF check failed for User ID: 16 at /front/login.php2023-09-12 18:10:35 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php with insufficient rights. Additional information: Missing CREATE right. Cannot view the new item form.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6460 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-09-12 18:19:30 [14@adminNAS]
+CSRF check failed for User ID: 14 at /front/document.form.php2023-09-12 18:32:55 [13@adminNAS]
+CSRF check failed for User ID: 13 at /front/document.form.php2023-09-13 18:13:14 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-09-13 18:19:15 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-09-13 18:19:15 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-09-14 11:05:35 [12@adminNAS]
+CSRF check failed for User ID: 12 at /front/displaypreference.form.php2023-09-14 15:24:42 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php with insufficient rights. Additional information: Missing CREATE right. Cannot view the new item form.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6460 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-09-14 15:24:47 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php with insufficient rights. Additional information: Missing CREATE right. Cannot view the new item form.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6460 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-09-14 15:24:48 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php with insufficient rights. Additional information: Missing CREATE right. Cannot view the new item form.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6460 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-09-14 15:24:48 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php with insufficient rights. Additional information: Missing CREATE right. Cannot view the new item form.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6460 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-09-14 15:24:49 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php with insufficient rights. Additional information: Missing CREATE right. Cannot view the new item form.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6460 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-09-14 17:30:39 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/document.form.php2023-09-14 17:30:45 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/document.form.php2023-09-14 17:36:35 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/document.form.php2023-09-14 18:03:35 [12@adminNAS]
+CSRF check failed for User ID: 12 at /front/displaypreference.form.php2023-09-14 18:05:21 [10@adminNAS]
+CSRF check failed for User ID: 10 at /front/document.form.php2023-09-14 18:05:21 [10@adminNAS]
+CSRF check failed for User ID: 10 at /front/document.form.php2023-09-14 18:28:16 [12@adminNAS]
+CSRF check failed for User ID: 12 at /front/notepad.form.php2023-09-14 18:28:20 [12@adminNAS]
+CSRF check failed for User ID: 12 at /front/notepad.form.php2023-09-15 17:34:22 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/document.form.php2023-09-15 17:46:37 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-09-15 17:52:32 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php with insufficient rights. Additional information: Missing CREATE right. Cannot view the new item form.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6460 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-09-15 17:52:34 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=287 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-09-15 17:52:37 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=287 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-09-15 17:54:16 [@adminNAS]
+CSRF check failed for User ID:  at /front/login.php2023-09-15 17:54:20 [@adminNAS]
+CSRF check failed for User ID:  at /front/login.php2023-09-15 18:23:27 [13@adminNAS]
+CSRF check failed for User ID: 13 at /front/document.form.php2023-09-15 18:49:15 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/document.form.php2023-09-15 18:49:15 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/document.form.php2023-09-15 18:49:15 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/document.form.php2023-09-15 18:49:21 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/document.form.php2023-09-18 18:01:49 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/document.form.php2023-09-19 14:00:04 [12@adminNAS]
+CSRF check failed for User ID: 12 at /front/notepad.form.php2023-09-19 14:05:10 [12@adminNAS]
+CSRF check failed for User ID: 12 at /front/notepad.form.php2023-09-19 17:39:56 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-09-19 17:42:36 [12@adminNAS]
+CSRF check failed for User ID: 12 at /front/notepad.form.php2023-09-19 17:42:41 [12@adminNAS]
+CSRF check failed for User ID: 12 at /front/notepad.form.php2023-09-19 17:42:45 [12@adminNAS]
+CSRF check failed for User ID: 12 at /front/notepad.form.php2023-09-19 17:44:27 [9@adminNAS]
+User ID: 9 tried to access a non-existent item /front/document.form.php?id=719. Additional information: The item could not be found in the database
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6359 displayNotFoundError()
+		/volume1/web/glpi/src/CommonDBTM.php:6470 displayItemNotFoundPage()
+		/volume1/web/glpi/front/document.form.php:145 displayFullPageForItem()
+2023-09-19 17:46:41 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-09-19 17:47:48 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-09-19 18:17:33 [16@adminNAS]
+CSRF check failed for User ID: 16 at /front/computer.form.php2023-09-19 18:17:37 [16@adminNAS]
+CSRF check failed for User ID: 16 at /front/computer.form.php2023-09-20 17:55:02 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-09-20 17:55:03 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-09-20 17:55:03 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-09-20 17:55:26 [13@adminNAS]
+CSRF check failed for User ID: 13 at /front/document.form.php2023-09-20 17:59:46 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownValue.php2023-09-20 17:59:55 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownValue.php2023-09-20 17:59:56 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownValue.php2023-09-20 17:59:57 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownValue.php2023-09-20 18:00:00 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownValue.php2023-09-20 18:00:00 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownValue.php2023-09-20 18:00:01 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownValue.php2023-09-20 18:00:01 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownValue.php2023-09-20 18:00:02 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownValue.php2023-09-20 18:00:02 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownValue.php2023-09-20 18:00:10 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownValue.php2023-09-20 18:08:40 [14@adminNAS]
+CSRF check failed for User ID: 14 at /front/document.form.php2023-09-20 18:31:28 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/document.form.php2023-09-21 08:22:26 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=503 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2023-09-21 18:19:45 [14@adminNAS]
+CSRF check failed for User ID: 14 at /front/document.form.php2023-09-26 17:16:04 [11@adminNAS]
+User ID: 11 tried to access a non-existent item /front/document.form.php?id=135. Additional information: The item could not be found in the database
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6359 displayNotFoundError()
+		/volume1/web/glpi/src/CommonDBTM.php:6470 displayItemNotFoundPage()
+		/volume1/web/glpi/front/document.form.php:145 displayFullPageForItem()
+2023-09-26 17:16:31 [11@adminNAS]
+User ID: 11 tried to access a non-existent item /front/document.form.php?id=134. Additional information: The item could not be found in the database
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6359 displayNotFoundError()
+		/volume1/web/glpi/src/CommonDBTM.php:6470 displayItemNotFoundPage()
+		/volume1/web/glpi/front/document.form.php:145 displayFullPageForItem()
+2023-09-26 17:18:12 [11@adminNAS]
+User ID: 11 tried to access a non-existent item /front/document.form.php?id=133. Additional information: The item could not be found in the database
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6359 displayNotFoundError()
+		/volume1/web/glpi/src/CommonDBTM.php:6470 displayItemNotFoundPage()
+		/volume1/web/glpi/front/document.form.php:145 displayFullPageForItem()
+2023-09-26 17:18:42 [11@adminNAS]
+User ID: 11 tried to access a non-existent item /front/document.form.php?id=132. Additional information: The item could not be found in the database
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6359 displayNotFoundError()
+		/volume1/web/glpi/src/CommonDBTM.php:6470 displayItemNotFoundPage()
+		/volume1/web/glpi/front/document.form.php:145 displayFullPageForItem()
+2023-09-26 17:21:12 [11@adminNAS]
+User ID: 11 tried to access a non-existent item /front/document.form.php?id=137. Additional information: The item could not be found in the database
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6359 displayNotFoundError()
+		/volume1/web/glpi/src/CommonDBTM.php:6470 displayItemNotFoundPage()
+		/volume1/web/glpi/front/document.form.php:145 displayFullPageForItem()
+2023-09-26 17:22:16 [11@adminNAS]
+User ID: 11 tried to access a non-existent item /front/document.form.php?id=136. Additional information: The item could not be found in the database
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6359 displayNotFoundError()
+		/volume1/web/glpi/src/CommonDBTM.php:6470 displayItemNotFoundPage()
+		/volume1/web/glpi/front/document.form.php:145 displayFullPageForItem()
+2023-09-26 17:23:59 [11@adminNAS]
+User ID: 11 tried to access a non-existent item /front/document.form.php?id=139. Additional information: The item could not be found in the database
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6359 displayNotFoundError()
+		/volume1/web/glpi/src/CommonDBTM.php:6470 displayItemNotFoundPage()
+		/volume1/web/glpi/front/document.form.php:145 displayFullPageForItem()
+2023-09-26 17:25:26 [11@adminNAS]
+User ID: 11 tried to access a non-existent item /front/document.form.php?id=138. Additional information: The item could not be found in the database
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6359 displayNotFoundError()
+		/volume1/web/glpi/src/CommonDBTM.php:6470 displayItemNotFoundPage()
+		/volume1/web/glpi/front/document.form.php:145 displayFullPageForItem()
+2023-09-26 19:05:31 [8@adminNAS]
+User ID: 8 tried to access or perform an action on /front/document_item.form.php with insufficient rights. Additional information: User failed a can* method check for right 4 (CREATE) on item Type: Document_Item ID: -1
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:3018 displayRightError()
+		/volume1/web/glpi/front/document_item.form.php:49 check()
+2023-09-26 19:06:15 [8@adminNAS]
+CSRF check failed for User ID: 8 at /front/document_item.form.php2023-09-28 13:19:55 [16@adminNAS]
+CSRF check failed for User ID: 16 at /front/login.php2023-09-28 19:01:44 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-10-04 17:46:15 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/document.form.php2023-10-09 10:54:36 [16@adminNAS]
+CSRF check failed for User ID: 16 at /front/login.php2023-10-09 17:57:39 [14@adminNAS]
+CSRF check failed for User ID: 14 at /front/document.form.php2023-10-09 19:25:58 [8@adminNAS]
+CSRF check failed for User ID: 8 at /front/document.form.php2023-10-10 17:29:54 [14@adminNAS]
+CSRF check failed for User ID: 14 at /front/document.form.php2023-10-10 17:30:41 [15@adminNAS]
+CSRF check failed for User ID: 15 at /front/document.form.php2023-10-10 17:30:48 [15@adminNAS]
+CSRF check failed for User ID: 15 at /front/document.form.php2023-10-10 17:30:52 [15@adminNAS]
+CSRF check failed for User ID: 15 at /front/document.form.php2023-10-10 17:44:54 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-10-10 17:44:59 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-10-10 17:51:44 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/document.form.php2023-10-10 17:56:08 [15@adminNAS]
+CSRF check failed for User ID: 15 at /front/document.form.php2023-10-10 17:56:40 [15@adminNAS]
+CSRF check failed for User ID: 15 at /front/document.form.php2023-10-10 17:59:54 [14@adminNAS]
+CSRF check failed for User ID: 14 at /front/document.form.php2023-10-10 18:00:18 [8@adminNAS]
+CSRF check failed for User ID: 8 at /front/document.form.php2023-10-10 18:16:41 [15@adminNAS]
+CSRF check failed for User ID: 15 at /front/document.form.php2023-10-10 18:39:19 [16@adminNAS]
+CSRF check failed for User ID: 16 at /front/document.form.php2023-10-11 17:46:00 [16@adminNAS]
+CSRF check failed for User ID: 16 at /front/document.form.php2023-10-17 17:22:12 [16@adminNAS]
+CSRF check failed for User ID: 16 at /front/document.form.php2023-10-17 17:35:50 [9@adminNAS]
+CSRF check failed for User ID: 9 at /front/document.form.php2023-10-17 18:12:13 [13@adminNAS]
+CSRF check failed for User ID: 13 at /front/document.form.php2023-10-17 18:13:02 [13@adminNAS]
+CSRF check failed for User ID: 13 at /front/document.form.php2023-10-17 18:13:02 [13@adminNAS]
+CSRF check failed for User ID: 13 at /front/document.form.php2023-10-17 18:54:12 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/document.form.php2023-10-19 17:58:34 [15@adminNAS]
+CSRF check failed for User ID: 15 at /front/document.form.php2023-10-20 11:12:57 [14@adminNAS]
+CSRF check failed for User ID: 14 at /front/document.form.php2023-10-20 17:14:09 [13@adminNAS]
+User ID: 13 tried to access or perform an action on /front/document_item.form.php with insufficient rights. Additional information: User failed a can* method check for right 4 (CREATE) on item Type: Document_Item ID: -1
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:3018 displayRightError()
+		/volume1/web/glpi/front/document_item.form.php:49 check()
+2023-10-20 17:23:40 [13@adminNAS]
+CSRF check failed for User ID: 13 at /front/document.form.php2023-11-14 11:51:21 [7@adminNAS]
+User ID: 7 tried to access or perform an action on /front/ticket.form.php?id=20& with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/ticket.form.php:259 displayFullPageForItem()
+2023-11-23 18:05:17 [11@adminNAS]
+CSRF check failed for User ID: 11 at /ajax/getDropdownUsers.php2023-11-23 18:05:20 [11@adminNAS]
+CSRF check failed for User ID: 11 at /ajax/getDropdownUsers.php2023-11-23 18:05:21 [11@adminNAS]
+CSRF check failed for User ID: 11 at /ajax/getDropdownUsers.php2023-11-23 18:05:22 [11@adminNAS]
+CSRF check failed for User ID: 11 at /ajax/getDropdownUsers.php2023-11-23 18:05:25 [11@adminNAS]
+CSRF check failed for User ID: 11 at /ajax/getDropdownUsers.php2023-11-23 18:05:26 [11@adminNAS]
+CSRF check failed for User ID: 11 at /ajax/getDropdownUsers.php2023-11-23 18:05:26 [11@adminNAS]
+CSRF check failed for User ID: 11 at /ajax/getDropdownUsers.php2023-11-23 18:05:26 [11@adminNAS]
+CSRF check failed for User ID: 11 at /ajax/getDropdownUsers.php2023-11-23 18:05:26 [11@adminNAS]
+CSRF check failed for User ID: 11 at /ajax/getDropdownUsers.php2023-11-23 18:05:27 [11@adminNAS]
+CSRF check failed for User ID: 11 at /ajax/getDropdownUsers.php2023-11-23 18:05:27 [11@adminNAS]
+CSRF check failed for User ID: 11 at /ajax/getDropdownUsers.php2023-11-23 18:05:27 [11@adminNAS]
+CSRF check failed for User ID: 11 at /ajax/getDropdownUsers.php2023-11-23 18:05:28 [11@adminNAS]
+CSRF check failed for User ID: 11 at /ajax/getDropdownUsers.php2024-01-22 14:15:57 [@adminNAS]
+CSRF check failed for User ID:  at /front/login.php2024-01-22 14:16:00 [@adminNAS]
+CSRF check failed for User ID:  at /front/login.php2024-02-20 07:20:31 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=10 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2024-02-20 07:21:10 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=10 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2024-03-12 07:06:26 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=142 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2024-03-12 08:05:54 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=142 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2024-04-17 16:20:32 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/document.form.php2024-04-17 16:20:41 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/document.form.php2024-08-09 15:28:21 [@adminNAS]
+CSRF check failed for User ID:  at /front/login.php2024-08-19 12:40:17 [@adminNAS]
+CSRF check failed for User ID:  at /front/login.php2024-08-19 16:38:28 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/document.form.php2024-08-19 16:51:49 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/document.form.php2024-08-29 12:57:35 [@adminNAS]
+CSRF check failed for User ID:  at /front/login.php2024-09-03 17:58:08 [11@adminNAS]
+CSRF check failed for User ID: 11 at /ajax/dropdownRubDocument.php2024-09-16 10:04:12 [13@adminNAS]
+CSRF check failed for User ID: 13 at /ajax/central.php2024-09-16 10:04:12 [13@adminNAS]
+CSRF check failed for User ID: 13 at /ajax/central.php2024-09-16 10:04:12 [13@adminNAS]
+CSRF check failed for User ID: 13 at /ajax/central.php2024-09-16 10:04:12 [13@adminNAS]
+CSRF check failed for User ID: 13 at /ajax/central.php2024-09-16 10:04:12 [13@adminNAS]
+CSRF check failed for User ID: 13 at /ajax/central.php2024-09-16 10:04:12 [13@adminNAS]
+CSRF check failed for User ID: 13 at /ajax/central.php2024-09-16 10:04:12 [13@adminNAS]
+CSRF check failed for User ID: 13 at /ajax/central.php2024-09-16 10:04:12 [13@adminNAS]
+CSRF check failed for User ID: 13 at /ajax/central.php2024-09-16 10:04:12 [13@adminNAS]
+CSRF check failed for User ID: 13 at /ajax/central.php2024-09-16 10:04:12 [13@adminNAS]
+CSRF check failed for User ID: 13 at /ajax/central.php2024-09-16 10:04:12 [13@adminNAS]
+CSRF check failed for User ID: 13 at /ajax/central.php2024-09-16 10:04:12 [13@adminNAS]
+CSRF check failed for User ID: 13 at /ajax/central.php2024-09-16 10:04:12 [13@adminNAS]
+CSRF check failed for User ID: 13 at /ajax/central.php2024-09-16 10:04:12 [13@adminNAS]
+CSRF check failed for User ID: 13 at /ajax/central.php2024-09-16 10:04:12 [13@adminNAS]
+CSRF check failed for User ID: 13 at /ajax/central.php2024-09-16 10:04:12 [13@adminNAS]
+CSRF check failed for User ID: 13 at /ajax/central.php2024-09-16 10:04:12 [13@adminNAS]
+CSRF check failed for User ID: 13 at /ajax/central.php2024-09-19 17:05:06 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/computer.form.php2024-09-19 17:44:05 [11@adminNAS]
+CSRF check failed for User ID: 11 at /front/user.form.php2024-10-02 11:27:54 [11@adminNAS]
+CSRF check failed for User ID: 11 at /ajax/getDropdownUsers.php2024-10-02 11:27:56 [11@adminNAS]
+CSRF check failed for User ID: 11 at /ajax/getDropdownUsers.php2024-11-21 13:40:45 [11@adminNAS]
+CSRF check failed for User ID: 11 at /ajax/getDropdownUsers.php2024-11-21 13:40:46 [11@adminNAS]
+CSRF check failed for User ID: 11 at /ajax/getDropdownValue.php2024-11-21 13:40:48 [11@adminNAS]
+CSRF check failed for User ID: 11 at /ajax/getDropdownValue.php2024-12-26 10:44:35 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownUsers.php2024-12-26 10:44:36 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownUsers.php2024-12-26 10:44:37 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownUsers.php2024-12-26 10:44:42 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownUsers.php2024-12-26 10:44:42 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownUsers.php2024-12-26 10:44:42 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownUsers.php2024-12-26 10:44:43 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownUsers.php2024-12-26 10:44:44 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownUsers.php2024-12-26 10:44:44 [@adminNAS]
+CSRF check failed for User ID:  at /ajax/getDropdownUsers.php2024-12-26 13:09:58 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=164 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2024-12-26 13:09:58 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=164 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2024-12-26 13:09:59 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=164 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2024-12-26 13:10:02 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=164 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2024-12-26 13:10:02 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=164 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2024-12-26 13:10:02 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=164 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2024-12-26 13:10:08 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=164 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2024-12-26 13:10:08 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=164 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()
+2024-12-26 13:10:09 [@adminNAS]
+User ID:  tried to access or perform an action on /front/user.form.php?id=164 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/volume1/web/glpi/src/CommonDBTM.php:6383 displayRightError()
+		/volume1/web/glpi/src/CommonDBTM.php:6476 displayAccessDeniedPage()
+		/volume1/web/glpi/front/user.form.php:241 displayFullPageForItem()

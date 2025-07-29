@@ -1,0 +1,778 @@
+2023-08-10 14:04:24 [7@adminNAS]
+An email to admsys@localhost was added to queue: [GLPI #0000001] New Task Email
+2023-08-10 14:05:10 [7@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000001] Approvals - Waiting for approval Email
+2023-08-10 14:05:17 [7@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000001] New Ticket Email
+2023-08-10 14:05:17 [7@adminNAS]
+An email to admsys@localhost was added to queue: [GLPI #0000001] New Ticket Email
+2023-08-10 14:06:26 [7@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000001] Validation Request Answer Email
+2023-08-10 14:07:21 [8@adminNAS]
+An email to admsys@localhost was added to queue: [GLPI #0000001] New Followup Email
+2023-08-10 14:07:22 [8@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000001] New Followup Email
+2023-08-10 14:08:23 [8@adminNAS]
+An email to admsys@localhost was added to queue: [GLPI #0000001] Ticket Solved Email
+2023-08-10 14:08:25 [8@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000001] Ticket Solved Email
+2023-08-10 14:08:41 [7@adminNAS]
+An email to admsys@localhost was added to queue: [GLPI #0000001] Closing of the Ticket Email
+2023-08-10 14:08:46 [7@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000001] Closing of the Ticket Email
+2023-08-10 14:08:47 [7@adminNAS]
+An email to admsys@localhost was added to queue: [GLPI #0000001] New Followup Email
+2023-08-10 14:08:53 [7@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000001] New Followup Email
+2023-08-10 14:12:03 [7@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000001] Approvals - Waiting for approval Email
+2023-08-10 14:12:05 [7@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000001] New Ticket Email
+2023-08-10 14:12:13 [7@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000001] Validation Request Answer Email
+2023-08-10 14:12:22 [7@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000001] New Followup Email
+2023-08-10 14:12:29 [7@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000001] Ticket Solved Email
+2023-08-10 14:12:38 [7@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000001] Closing of the Ticket Email
+2023-08-10 14:12:49 [7@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000001] New Followup Email
+2023-08-10 14:17:50 [17@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000002] New Ticket Laptop
+2023-08-10 14:17:51 [17@adminNAS]
+An email to admsys@localhost was added to queue: [GLPI #0000002] New Ticket Laptop
+2023-08-10 14:19:14 [7@adminNAS]
+An email to admsys@localhost was added to queue: [GLPI #0000002] Ticket Solved Laptop
+2023-08-10 14:20:25 [@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000002] New Ticket Laptop
+2023-08-10 15:28:41 [17@adminNAS]
+An email to admsys@localhost was added to queue: [GLPI #0000002] Closing of the Ticket Laptop
+2023-08-10 15:28:48 [17@adminNAS]
+An email to admsys@localhost was added to queue: [GLPI #0000002] New Followup Laptop
+2023-08-10 15:30:14 [17@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000003] New Ticket Install Malsy
+2023-08-10 15:30:15 [17@adminNAS]
+An email to admsys@localhost was added to queue: [GLPI #0000003] New Ticket Install Malsy
+2023-08-10 15:31:57 [17@adminNAS]
+An email to admsys@localhost was added to queue: [GLPI #0000003] Ticket Deleted Install Malsy
+2023-08-10 15:32:42 [17@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000004] New Ticket Install Malsy
+2023-08-10 15:32:45 [17@adminNAS]
+An email to admsys@localhost was added to queue: [GLPI #0000004] New Ticket Install Malsy
+2023-08-10 15:32:46 [17@adminNAS]
+An email to it-tech4.ph@toyoflex.com was added to queue: [GLPI #0000004] New Ticket Install Malsy
+2023-08-10 15:35:32 [8@adminNAS]
+An email to admsys@localhost was added to queue: [GLPI #0000004] New Followup Install Malsy
+2023-08-10 15:35:32 [8@adminNAS]
+An email to it-tech4.ph@toyoflex.com was added to queue: [GLPI #0000004] New Followup Install Malsy
+2023-08-10 15:38:19 [8@adminNAS]
+An email to admsys@localhost was added to queue: [GLPI #0000004] New Followup Install Malsy
+2023-08-10 15:38:19 [8@adminNAS]
+An email to it-tech4.ph@toyoflex.com was added to queue: [GLPI #0000004] New Followup Install Malsy
+2023-08-10 15:41:14 [17@adminNAS]
+An email to admsys@localhost was added to queue: [GLPI #0000004] New Followup Install Malsy
+2023-08-10 15:41:16 [17@adminNAS]
+An email to it-tech4.ph@toyoflex.com was added to queue: [GLPI #0000004] New Followup Install Malsy
+2023-08-10 15:45:46 [8@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000004] Approvals - Waiting for approval Install Malsy
+2023-08-10 15:47:27 [@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000003] New Ticket Install Malsy
+2023-08-10 15:47:44 [@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000004] New Ticket Install Malsy
+2023-08-10 15:47:53 [@adminNAS]
+An email was sent to it-tech4.ph@toyoflex.com: [GLPI #0000004] New Ticket Install Malsy
+2023-08-10 15:48:00 [@adminNAS]
+An email was sent to it-tech4.ph@toyoflex.com: [GLPI #0000004] New Followup Install Malsy
+2023-08-10 15:48:09 [@adminNAS]
+An email was sent to it-tech4.ph@toyoflex.com: [GLPI #0000004] New Followup Install Malsy
+2023-08-10 15:48:18 [@adminNAS]
+An email was sent to it-tech4.ph@toyoflex.com: [GLPI #0000004] New Followup Install Malsy
+2023-08-10 15:48:23 [@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000004] Approvals - Waiting for approval Install Malsy
+2023-08-10 15:50:01 [7@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000004] Validation Request Answer Install Malsy
+2023-08-10 15:51:09 [8@adminNAS]
+An email to admsys@localhost was added to queue: [GLPI #0000004] Ticket Solved Install Malsy
+2023-08-10 15:51:10 [8@adminNAS]
+An email to it-tech4.ph@toyoflex.com was added to queue: [GLPI #0000004] Ticket Solved Install Malsy
+2023-08-10 15:52:43 [17@adminNAS]
+An email to admsys@localhost was added to queue: [GLPI #0000004] Closing of the Ticket Install Malsy
+2023-08-10 15:52:48 [17@adminNAS]
+An email to it-tech4.ph@toyoflex.com was added to queue: [GLPI #0000004] Closing of the Ticket Install Malsy
+2023-08-10 15:52:48 [17@adminNAS]
+An email to admsys@localhost was added to queue: [GLPI #0000004] New Followup Install Malsy
+2023-08-10 15:52:50 [17@adminNAS]
+An email to it-tech4.ph@toyoflex.com was added to queue: [GLPI #0000004] New Followup Install Malsy
+2023-08-10 16:20:35 [@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000004] Validation Request Answer Install Malsy
+2023-08-10 16:20:43 [@adminNAS]
+An email was sent to it-tech4.ph@toyoflex.com: [GLPI #0000004] Ticket Solved Install Malsy
+2023-08-10 16:21:57 [@adminNAS]
+An email was sent to it-tech4.ph@toyoflex.com: [GLPI #0000004] Closing of the Ticket Install Malsy
+2023-08-10 16:22:05 [@adminNAS]
+An email was sent to it-tech4.ph@toyoflex.com: [GLPI #0000004] New Followup Install Malsy
+2023-08-14 13:08:07 [17@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000005] New Ticket test ticket
+2023-08-14 13:08:09 [17@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000005] New Ticket test ticket
+2023-08-14 13:08:44 [12@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000005] New user in assignees test ticket
+2023-08-14 13:17:19 [12@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000005] Approvals - Waiting for approval test ticket
+2023-08-14 13:17:48 [@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000005] New Ticket test ticket
+2023-08-14 13:17:49 [@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000005] New user in assignees test ticket
+2023-08-14 13:17:52 [@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000005] Approvals - Waiting for approval test ticket
+2023-08-14 13:18:52 [7@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000005] Validation Request Answer test ticket
+2023-08-14 13:20:33 [12@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000005] Ticket Solved test ticket
+2023-08-14 13:20:34 [12@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000005] Ticket Solved test ticket
+2023-08-14 13:23:20 [12@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000005] Closing of the Ticket test ticket
+2023-08-14 13:23:21 [12@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000005] Closing of the Ticket test ticket
+2023-08-14 13:26:50 [@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000005] Validation Request Answer test ticket
+2023-08-14 13:26:57 [@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000005] Ticket Solved test ticket
+2023-08-14 13:27:13 [@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000005] Closing of the Ticket test ticket
+2023-08-14 13:28:09 [17@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000006] New Ticket test ticket 2
+2023-08-14 13:28:15 [17@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000006] New Ticket test ticket 2
+2023-08-14 13:28:56 [12@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000006] Approvals - Waiting for approval test ticket 2
+2023-08-14 13:30:12 [7@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000006] Validation Request Answer test ticket 2
+2023-08-14 13:33:01 [10@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000006] Ticket Solved test ticket 2
+2023-08-14 13:33:02 [10@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000006] Ticket Solved test ticket 2
+2023-08-14 13:33:58 [17@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000006] Closing of the Ticket test ticket 2
+2023-08-14 13:34:06 [17@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000006] Closing of the Ticket test ticket 2
+2023-08-14 13:34:07 [17@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000006] New Followup test ticket 2
+2023-08-14 13:34:08 [17@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000006] New Followup test ticket 2
+2023-08-14 13:41:27 [17@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000006] New Ticket test ticket 2
+2023-08-14 13:41:32 [17@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000006] Approvals - Waiting for approval test ticket 2
+2023-08-14 13:41:35 [17@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000006] Validation Request Answer test ticket 2
+2023-08-14 13:41:59 [17@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000006] Ticket Solved test ticket 2
+2023-08-14 13:42:07 [17@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000006] Closing of the Ticket test ticket 2
+2023-08-14 13:42:14 [17@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000006] New Followup test ticket 2
+2023-08-14 13:43:16 [7@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000001] Ticket Deleted Email
+2023-08-14 13:43:19 [7@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000002] Ticket Deleted Laptop
+2023-08-14 13:43:22 [7@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000004] Ticket Deleted Install Malsy
+2023-08-14 13:43:26 [7@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000005] Ticket Deleted test ticket
+2023-08-14 13:43:28 [7@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000006] Ticket Deleted test ticket 2
+2023-08-14 14:04:20 [17@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000007] New Ticket test ticket 3
+2023-08-14 14:04:21 [17@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000007] New Ticket test ticket 3
+2023-08-14 14:05:06 [12@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000007] Approvals - Waiting for approval test ticket 3
+2023-08-14 14:06:15 [7@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000007] Validation Request Answer test ticket 3
+2023-08-14 14:06:59 [@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000007] New Ticket test ticket 3
+2023-08-14 14:07:01 [@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000007] Approvals - Waiting for approval test ticket 3
+2023-08-14 14:08:10 [@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000007] Validation Request Answer test ticket 3
+2023-08-14 14:09:52 [10@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000007] New Followup test ticket 3
+2023-08-14 14:09:53 [10@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000007] New Followup test ticket 3
+2023-08-14 14:13:31 [@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000007] New Followup test ticket 3
+2023-08-14 14:21:44 [10@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000007] Ticket Solved test ticket 3
+2023-08-14 14:21:46 [10@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000007] Ticket Solved test ticket 3
+2023-08-14 14:29:57 [7@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000007] Ticket Solved test ticket 3
+2023-08-14 14:32:11 [17@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000007] Closing of the Ticket test ticket 3
+2023-08-14 14:32:13 [17@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000007] Closing of the Ticket test ticket 3
+2023-08-14 14:32:13 [17@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000007] New Followup test ticket 3
+2023-08-14 14:32:16 [17@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000007] New Followup test ticket 3
+2023-08-14 14:47:04 [7@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000007] Ticket Deleted test ticket 3
+2023-08-14 15:43:09 [@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000007] Closing of the Ticket test ticket 3
+2023-08-14 15:43:17 [@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000007] New Followup test ticket 3
+2023-08-15 10:39:11 [17@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000008] New Ticket MS TEAMS PS RESET
+2023-08-15 10:39:12 [17@adminNAS]
+An email to it-staff5.ph@toyoflex.com was added to queue: [GLPI #0000008] New Ticket MS TEAMS PS RESET
+2023-08-15 10:40:18 [@adminNAS]
+An email was sent to it-staff5.ph@toyoflex.com: [GLPI #0000008] New Ticket MS TEAMS PS RESET
+2023-08-15 10:43:22 [2@adminNAS]
+An email to it-staff5.ph@toyoflex.com was added to queue: [GLPI #0000008] New user in assignees MS TEAMS PS RESET
+2023-08-15 10:44:02 [2@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000008] New Followup MS TEAMS PS RESET
+2023-08-15 10:44:03 [2@adminNAS]
+An email to it-staff5.ph@toyoflex.com was added to queue: [GLPI #0000008] New Followup MS TEAMS PS RESET
+2023-08-15 10:45:37 [13@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000008] Ticket Solved MS TEAMS PS RESET
+2023-08-15 10:45:37 [13@adminNAS]
+An email to it-staff5.ph@toyoflex.com was added to queue: [GLPI #0000008] Ticket Solved MS TEAMS PS RESET
+2023-08-15 10:47:03 [17@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000008] Closing of the Ticket MS TEAMS PS RESET
+2023-08-15 10:47:04 [17@adminNAS]
+An email to it-staff5.ph@toyoflex.com was added to queue: [GLPI #0000008] Closing of the Ticket MS TEAMS PS RESET
+2023-08-15 10:47:06 [17@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000008] New Followup MS TEAMS PS RESET
+2023-08-15 10:47:06 [17@adminNAS]
+An email to it-staff5.ph@toyoflex.com was added to queue: [GLPI #0000008] New Followup MS TEAMS PS RESET
+2023-08-15 11:02:26 [@adminNAS]
+An email was sent to it-staff5.ph@toyoflex.com: [GLPI #0000008] New user in assignees MS TEAMS PS RESET
+2023-08-15 11:02:33 [@adminNAS]
+An email was sent to it-staff5.ph@toyoflex.com: [GLPI #0000008] New Followup MS TEAMS PS RESET
+2023-08-15 11:03:15 [@adminNAS]
+An email was sent to it-staff5.ph@toyoflex.com: [GLPI #0000008] Ticket Solved MS TEAMS PS RESET
+2023-08-15 11:03:24 [@adminNAS]
+An email was sent to it-staff5.ph@toyoflex.com: [GLPI #0000008] Closing of the Ticket MS TEAMS PS RESET
+2023-08-15 11:03:32 [@adminNAS]
+An email was sent to it-staff5.ph@toyoflex.com: [GLPI #0000008] New Followup MS TEAMS PS RESET
+2023-08-16 10:54:55 [17@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000009] New Ticket test ticket 3
+2023-08-16 18:16:47 [17@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000009] New user in assignees test ticket 3
+2023-08-16 18:24:06 [@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000009] New user in assignees test ticket 3
+2023-08-18 15:54:58 [7@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000009] New Followup test ticket 3
+2023-08-18 15:57:26 [12@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000009] Approvals - Waiting for approval test ticket 3
+2023-08-18 16:00:55 [7@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000009] Validation Request Answer test ticket 3
+2023-08-18 16:14:29 [12@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000009] Approvals - Waiting for approval test ticket 3
+2023-08-18 16:14:31 [12@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000009] Validation Request Answer test ticket 3
+2023-08-18 16:19:51 [12@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000010] New Ticket MS TEAMS INSTALLATION
+2023-08-18 16:19:52 [12@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000010] New Ticket MS TEAMS INSTALLATION
+2023-08-18 16:20:23 [@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000010] New Ticket MS TEAMS INSTALLATION
+2023-08-18 16:21:05 [7@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION
+2023-08-18 16:21:06 [7@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION
+2023-08-18 16:21:19 [12@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION
+2023-08-18 16:21:20 [12@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION
+2023-08-18 16:21:22 [12@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000010] New Followup MS TEAMS INSTALLATION
+2023-08-18 16:21:23 [12@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000010] New Followup MS TEAMS INSTALLATION
+2023-08-18 16:22:41 [7@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION
+2023-08-18 16:22:42 [7@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION
+2023-08-18 16:23:31 [12@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000011] New Ticket test
+2023-08-18 16:23:32 [12@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000011] New Ticket test
+2023-08-18 16:24:16 [7@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000011] New Followup test
+2023-08-18 16:24:17 [7@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000011] New Followup test
+2023-08-18 16:32:45 [7@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000011] Ticket Solved test
+2023-08-18 16:32:45 [7@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000011] Ticket Solved test
+2023-08-18 16:32:57 [7@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION
+2023-08-18 16:33:06 [7@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION
+2023-08-18 16:33:14 [7@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000010] New Followup MS TEAMS INSTALLATION
+2023-08-18 16:33:22 [7@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION
+2023-08-18 16:33:31 [7@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000011] New Ticket test
+2023-08-18 16:33:39 [7@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000011] New Followup test
+2023-08-18 16:33:58 [7@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000011] Ticket Solved test
+2023-08-18 16:35:37 [7@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000009] Ticket Solved test ticket 3
+2023-08-18 16:36:52 [17@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000009] Closing of the Ticket test ticket 3
+2023-08-18 16:36:54 [17@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000009] New Followup test ticket 3
+2023-08-19 10:25:31 [7@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000011] Closing of the Ticket test
+2023-08-19 10:25:32 [7@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000011] Closing of the Ticket test
+2023-08-19 10:26:04 [7@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION
+2023-08-19 10:26:05 [7@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION
+2023-08-19 10:26:35 [7@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000008] Ticket Deleted MS TEAMS PS RESET
+2023-08-19 10:26:37 [7@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000009] Ticket Deleted test ticket 3
+2023-08-19 10:26:39 [7@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000010] Ticket Deleted MS TEAMS INSTALLATION
+2023-08-19 10:26:42 [7@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000011] Ticket Deleted test
+2023-08-19 10:29:02 [17@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000012] New Task test 4
+2023-08-19 10:29:08 [17@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000012] Approvals - Waiting for approval test 4
+2023-08-19 10:29:11 [17@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000012] New Ticket test 4
+2023-08-19 10:29:52 [7@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000012] Validation Request Answer test 4
+2023-08-19 10:30:36 [7@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000012] New user in assignees test 4
+2023-08-19 10:31:02 [7@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000012] New Followup test 4
+2023-08-19 10:31:54 [12@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000012] Ticket Solved test 4
+2023-08-19 10:32:21 [17@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000012] Closing of the Ticket test 4
+2023-08-19 10:32:23 [17@adminNAS]
+An email to cebu.it@localhost was added to queue: [GLPI #0000012] New Followup test 4
+2023-08-19 11:23:49 [2@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000011] Closing of the Ticket test
+2023-08-19 11:23:56 [2@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION
+2023-08-19 11:24:28 [2@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000012] Approvals - Waiting for approval test 4
+2023-08-19 11:24:36 [2@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000012] Validation Request Answer test 4
+2023-08-19 11:24:37 [2@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000012] New user in assignees test 4
+2023-08-19 17:16:17 [17@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000013] New Task test 5
+2023-08-19 17:16:24 [17@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000013] New Ticket test 5
+2023-08-19 17:17:53 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000013] New Followup test 5
+2023-08-19 17:18:58 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000013] New Followup test 5
+2023-08-19 17:20:59 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000013] Ticket Solved test 5
+2023-08-19 17:21:34 [17@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000013] Closing of the Ticket test 5
+2023-08-19 17:21:35 [17@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000013] New Followup test 5
+2023-08-19 17:22:39 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000012] Ticket Deleted test 4
+2023-08-19 17:22:41 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000013] Ticket Deleted test 5
+2023-08-19 17:24:01 [17@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000014] New Task Laptop not charging
+2023-08-19 17:24:07 [17@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000014] New Ticket Laptop not charging
+2023-08-19 17:24:44 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000014] Update of a Task Laptop not charging
+2023-08-19 17:25:13 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000014] New Followup Laptop not charging
+2023-08-19 17:25:58 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000014] Ticket Solved Laptop not charging
+2023-08-19 17:26:46 [17@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000014] New Followup Laptop not charging
+2023-08-19 17:28:42 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000014] Ticket Solved Laptop not charging
+2023-08-19 17:29:20 [17@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000014] Closing of the Ticket Laptop not charging
+2023-08-19 17:29:22 [17@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000014] New Followup Laptop not charging
+2023-08-19 17:29:58 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000001] Ticket Deleted Email
+2023-08-19 17:30:03 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000001] Task Deleted Email
+2023-08-19 17:30:03 [7@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000001] Task Deleted Email
+2023-08-19 17:30:14 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000002] Ticket Deleted Laptop
+2023-08-19 17:30:23 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000004] Ticket Deleted Install Malsy
+2023-08-19 17:30:37 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000005] Ticket Deleted test ticket
+2023-08-19 17:30:46 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000006] Ticket Deleted test ticket 2
+2023-08-19 17:30:55 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000007] Ticket Deleted test ticket 3
+2023-08-19 17:31:08 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000008] Ticket Deleted MS TEAMS PS RESET
+2023-08-19 17:31:21 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000009] Ticket Deleted test ticket 3
+2023-08-19 17:31:38 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000010] Ticket Deleted MS TEAMS INSTALLATION
+2023-08-19 17:31:52 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000011] Ticket Deleted test
+2023-08-19 17:32:00 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000012] Ticket Deleted test 4
+2023-08-19 17:32:05 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000012] Task Deleted test 4
+2023-08-19 17:32:17 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000013] Ticket Deleted test 5
+2023-08-19 17:32:21 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000013] Task Deleted test 5
+2023-08-19 17:47:57 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000013] New Task test 5
+2023-08-19 17:48:00 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000013] New Ticket test 5
+2023-08-19 17:48:02 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000013] New Followup test 5
+2023-08-19 17:48:05 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000013] New Followup test 5
+2023-08-19 17:48:07 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000013] Ticket Solved test 5
+2023-08-19 17:48:12 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000013] Closing of the Ticket test 5
+2023-08-19 17:48:14 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000013] New Followup test 5
+2023-08-19 17:48:16 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000012] Ticket Deleted test 4
+2023-08-19 17:48:19 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000013] Ticket Deleted test 5
+2023-08-19 17:48:21 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000014] New Task Laptop not charging
+2023-08-19 17:48:23 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000014] New Ticket Laptop not charging
+2023-08-19 17:48:26 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000014] Update of a Task Laptop not charging
+2023-08-19 17:48:29 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000014] New Followup Laptop not charging
+2023-08-19 17:48:33 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000014] Ticket Solved Laptop not charging
+2023-08-19 17:48:36 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000014] New Followup Laptop not charging
+2023-08-19 17:48:39 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000014] Ticket Solved Laptop not charging
+2023-08-19 17:48:42 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000014] Closing of the Ticket Laptop not charging
+2023-08-19 17:48:44 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000014] New Followup Laptop not charging
+2023-08-19 17:48:48 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000001] Ticket Deleted Email
+2023-08-19 17:48:51 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000001] Task Deleted Email
+2023-08-19 17:48:56 [17@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000001] Task Deleted Email
+2023-08-19 17:48:58 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000002] Ticket Deleted Laptop
+2023-08-19 17:49:02 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000004] Ticket Deleted Install Malsy
+2023-08-19 17:49:09 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000005] Ticket Deleted test ticket
+2023-08-19 17:49:11 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000006] Ticket Deleted test ticket 2
+2023-08-19 17:49:13 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000007] Ticket Deleted test ticket 3
+2023-08-19 17:49:16 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000008] Ticket Deleted MS TEAMS PS RESET
+2023-08-19 17:49:17 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000009] Ticket Deleted test ticket 3
+2023-08-19 17:49:19 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000010] Ticket Deleted MS TEAMS INSTALLATION
+2023-08-19 17:49:21 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000011] Ticket Deleted test
+2023-08-19 17:49:22 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000012] Ticket Deleted test 4
+2023-08-19 17:49:25 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000012] Task Deleted test 4
+2023-08-19 17:49:28 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000013] Ticket Deleted test 5
+2023-08-19 17:49:30 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000013] Task Deleted test 5
+2023-08-19 17:49:37 [17@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000015] New Ticket Laptop
+2023-08-19 17:51:32 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000015] New Followup Laptop
+2023-08-19 17:53:39 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000015] Ticket Solved Laptop
+2023-08-19 17:54:30 [17@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000015] Closing of the Ticket Laptop
+2023-08-19 17:54:31 [17@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000015] New Followup Laptop
+2023-08-19 17:55:46 [17@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000014] Ticket Deleted Laptop not charging
+2023-08-19 17:55:49 [17@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000015] Ticket Deleted Laptop
+2023-08-19 17:57:38 [17@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000016] New Ticket cannot open server
+2023-08-19 17:58:20 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000016] New Followup cannot open server
+2023-08-19 18:00:11 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000016] Ticket Solved cannot open server
+2023-08-19 18:00:59 [17@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000016] Closing of the Ticket cannot open server
+2023-08-19 18:01:00 [17@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000016] New Followup cannot open server
+2023-08-19 18:01:18 [7@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000015] New Ticket Laptop
+2023-08-19 18:01:20 [7@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000015] New Followup Laptop
+2023-08-19 18:01:21 [7@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000015] Ticket Solved Laptop
+2023-08-19 18:01:23 [7@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000015] Closing of the Ticket Laptop
+2023-08-19 18:01:25 [7@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000015] New Followup Laptop
+2023-08-19 18:01:26 [7@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000014] Ticket Deleted Laptop not charging
+2023-08-19 18:01:28 [7@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000015] Ticket Deleted Laptop
+2023-08-19 18:01:31 [7@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000016] New Ticket cannot open server
+2023-08-19 18:01:32 [7@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000016] New Followup cannot open server
+2023-08-19 18:01:38 [7@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000016] Ticket Solved cannot open server
+2023-08-19 18:01:40 [7@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000016] Closing of the Ticket cannot open server
+2023-08-19 18:01:42 [7@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000016] New Followup cannot open server
+2023-08-22 14:47:55 [17@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000017] New Ticket TEAMS INSTALLATION
+2023-08-22 14:47:59 [17@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000017] New Ticket TEAMS INSTALLATION
+2023-08-29 17:25:55 [@adminNAS]
+An email to it-staff7.ph@toyoflex.com was added to queue: [GLPI] Forgot Password?
+2023-08-29 17:25:57 [@adminNAS]
+An email was sent to it-staff7.ph@toyoflex.com: [GLPI] Forgot Password?
+2023-08-31 16:53:06 [2@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000017] New Followup TEAMS INSTALLATION
+2023-08-31 17:35:57 [12@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000017] New Followup TEAMS INSTALLATION
+2023-09-30 10:22:24 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000018] New Task PM DOCS
+2023-09-30 10:22:30 [7@adminNAS]
+An email to it-staff7.ph@toyoflex.com was added to queue: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:22:32 [7@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:22:32 [7@adminNAS]
+An email to it-tech9.ph@toyoflex.com was added to queue: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:22:33 [7@adminNAS]
+An email to it-staff6.ph@toyoflex.com was added to queue: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:22:35 [7@adminNAS]
+An email to it-staff8.ph@toyoflex.com was added to queue: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:22:36 [7@adminNAS]
+An email to it-tech10.ph@toyoflex.com was added to queue: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:22:37 [7@adminNAS]
+An email to it-staff5.ph@toyoflex.com was added to queue: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:22:37 [7@adminNAS]
+An email to it-tech7.ph@toyoflex.com was added to queue: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:22:38 [7@adminNAS]
+An email to hiroyuki.kazuma@asahi-intecc.com was added to queue: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:22:38 [7@adminNAS]
+An email to tfc-iso@toyoflex.com was added to queue: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:22:39 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:22:39 [7@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:29:40 [@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000018] New Task PM DOCS
+2023-09-30 10:29:41 [@adminNAS]
+An email was sent to it-staff7.ph@toyoflex.com: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:29:43 [@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:29:48 [@adminNAS]
+An email was sent to it-tech9.ph@toyoflex.com: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:29:49 [@adminNAS]
+An email was sent to it-staff6.ph@toyoflex.com: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:29:51 [@adminNAS]
+An email was sent to it-staff8.ph@toyoflex.com: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:29:53 [@adminNAS]
+An email was sent to it-tech10.ph@toyoflex.com: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:29:56 [@adminNAS]
+An email was sent to it-staff5.ph@toyoflex.com: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:29:58 [@adminNAS]
+An email was sent to it-tech7.ph@toyoflex.com: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:30:00 [@adminNAS]
+An email was sent to hiroyuki.kazuma@asahi-intecc.com: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:30:02 [@adminNAS]
+An email was sent to tfc-iso@toyoflex.com: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:30:05 [@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 10:30:06 [@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000018] New Ticket PM DOCS
+2023-09-30 13:09:57 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000017] Closing of the Ticket TEAMS INSTALLATION
+2023-09-30 13:10:44 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000018] Closing of the Ticket PM DOCS
+2023-09-30 13:10:45 [7@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000018] Closing of the Ticket PM DOCS
+2023-09-30 13:12:13 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000016] Ticket Deleted cannot open server
+2023-09-30 13:12:15 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000017] Ticket Deleted TEAMS INSTALLATION
+2023-09-30 13:12:17 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000018] Ticket Deleted PM DOCS
+2023-10-02 09:54:55 [@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000017] Closing of the Ticket TEAMS INSTALLATION
+2023-10-02 09:54:57 [@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000018] Closing of the Ticket PM DOCS
+2023-10-02 09:54:58 [@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000018] Closing of the Ticket PM DOCS
+2023-10-02 09:55:00 [@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000016] Ticket Deleted cannot open server
+2023-10-02 09:55:01 [@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000017] Ticket Deleted TEAMS INSTALLATION
+2023-10-02 09:55:03 [@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000018] Ticket Deleted PM DOCS
+2023-11-13 10:50:17 [2@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000019] New Task check pc
+2023-11-13 10:50:21 [2@adminNAS]
+An email to it-staff7.ph@toyoflex.com was added to queue: [GLPI #0000019] New Ticket check pc
+2023-11-13 10:50:21 [2@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000019] New Ticket check pc
+2023-11-13 10:50:22 [2@adminNAS]
+An email to it-tech9.ph@toyoflex.com was added to queue: [GLPI #0000019] New Ticket check pc
+2023-11-13 10:50:22 [2@adminNAS]
+An email to it-staff6.ph@toyoflex.com was added to queue: [GLPI #0000019] New Ticket check pc
+2023-11-13 10:50:22 [2@adminNAS]
+An email to it-staff8.ph@toyoflex.com was added to queue: [GLPI #0000019] New Ticket check pc
+2023-11-13 10:50:23 [2@adminNAS]
+An email to it-tech10.ph@toyoflex.com was added to queue: [GLPI #0000019] New Ticket check pc
+2023-11-13 10:50:23 [2@adminNAS]
+An email to it-staff5.ph@toyoflex.com was added to queue: [GLPI #0000019] New Ticket check pc
+2023-11-13 10:50:24 [2@adminNAS]
+An email to it-tech7.ph@toyoflex.com was added to queue: [GLPI #0000019] New Ticket check pc
+2023-11-13 10:50:24 [2@adminNAS]
+An email to hiroyuki.kazuma@asahi-intecc.com was added to queue: [GLPI #0000019] New Ticket check pc
+2023-11-13 10:50:25 [2@adminNAS]
+An email to tfc-iso@toyoflex.com was added to queue: [GLPI #0000019] New Ticket check pc
+2023-11-13 10:50:25 [2@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000019] New Ticket check pc
+2023-11-13 10:50:25 [2@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000019] New Ticket check pc
+2023-11-13 11:39:43 [@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000019] New Task check pc
+2023-11-13 11:39:44 [@adminNAS]
+An email was sent to it-staff7.ph@toyoflex.com: [GLPI #0000019] New Ticket check pc
+2023-11-13 11:39:46 [@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000019] New Ticket check pc
+2023-11-13 11:39:47 [@adminNAS]
+An email was sent to it-tech9.ph@toyoflex.com: [GLPI #0000019] New Ticket check pc
+2023-11-13 11:39:48 [@adminNAS]
+An email was sent to it-staff6.ph@toyoflex.com: [GLPI #0000019] New Ticket check pc
+2023-11-13 11:39:50 [@adminNAS]
+An email was sent to it-staff8.ph@toyoflex.com: [GLPI #0000019] New Ticket check pc
+2023-11-13 11:39:51 [@adminNAS]
+An email was sent to it-tech10.ph@toyoflex.com: [GLPI #0000019] New Ticket check pc
+2023-11-13 11:39:52 [@adminNAS]
+An email was sent to it-staff5.ph@toyoflex.com: [GLPI #0000019] New Ticket check pc
+2023-11-13 11:39:54 [@adminNAS]
+An email was sent to it-tech7.ph@toyoflex.com: [GLPI #0000019] New Ticket check pc
+2023-11-13 11:39:55 [@adminNAS]
+An email was sent to hiroyuki.kazuma@asahi-intecc.com: [GLPI #0000019] New Ticket check pc
+2023-11-13 11:40:02 [@adminNAS]
+An email was sent to tfc-iso@toyoflex.com: [GLPI #0000019] New Ticket check pc
+2023-11-13 11:40:03 [@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000019] New Ticket check pc
+2023-11-13 11:40:05 [@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000019] New Ticket check pc
+2023-11-14 09:12:36 [2@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000019] Ticket Deleted check pc
+2023-11-14 09:13:22 [@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000019] Ticket Deleted check pc
+2023-11-14 09:15:46 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000020] New Task test
+2023-11-14 09:15:49 [7@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000020] Approvals - Waiting for approval test
+2023-11-14 09:15:50 [7@adminNAS]
+An email to it-staff7.ph@toyoflex.com was added to queue: [GLPI #0000020] New Ticket test
+2023-11-14 09:15:51 [7@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000020] New Ticket test
+2023-11-14 09:15:51 [7@adminNAS]
+An email to it-tech9.ph@toyoflex.com was added to queue: [GLPI #0000020] New Ticket test
+2023-11-14 09:15:52 [7@adminNAS]
+An email to it-staff6.ph@toyoflex.com was added to queue: [GLPI #0000020] New Ticket test
+2023-11-14 09:15:52 [7@adminNAS]
+An email to it-staff8.ph@toyoflex.com was added to queue: [GLPI #0000020] New Ticket test
+2023-11-14 09:15:53 [7@adminNAS]
+An email to it-tech10.ph@toyoflex.com was added to queue: [GLPI #0000020] New Ticket test
+2023-11-14 09:15:53 [7@adminNAS]
+An email to it-staff5.ph@toyoflex.com was added to queue: [GLPI #0000020] New Ticket test
+2023-11-14 09:15:53 [7@adminNAS]
+An email to it-tech7.ph@toyoflex.com was added to queue: [GLPI #0000020] New Ticket test
+2023-11-14 09:15:54 [7@adminNAS]
+An email to tfc-iso@toyoflex.com was added to queue: [GLPI #0000020] New Ticket test
+2023-11-14 09:15:54 [7@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000020] New Ticket test
+2023-11-14 09:15:54 [7@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000020] New Ticket test
+2023-11-14 09:15:55 [7@adminNAS]
+An email to it-tech4.ph@toyoflex.com was added to queue: [GLPI #0000020] New Ticket test
+2023-11-14 09:17:04 [12@adminNAS]
+An email to it-staff4.ph@toyoflex.com was added to queue: [GLPI #0000020] Validation Request Answer test
+2023-11-14 09:18:19 [10@adminNAS]
+An email to cebu.it.ph@toyoflex.com was added to queue: [GLPI #0000020] New Followup test
+2023-11-14 09:18:20 [10@adminNAS]
+An email to system_admin.ph@toyoflex.com was added to queue: [GLPI #0000020] New Followup test
+2023-11-14 09:18:20 [10@adminNAS]
+An email to it-tech4.ph@toyoflex.com was added to queue: [GLPI #0000020] New Followup test
+2023-11-14 09:21:40 [8@adminNAS]
+An email to it-staff7.ph@toyoflex.com was added to queue: [GLPI #0000020] Approvals - Waiting for approval test
+2023-11-14 11:44:00 [@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000020] New Task test
+2023-11-14 11:44:02 [@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000020] Approvals - Waiting for approval test
+2023-11-14 11:44:03 [@adminNAS]
+An email was sent to it-staff7.ph@toyoflex.com: [GLPI #0000020] New Ticket test
+2023-11-14 11:44:04 [@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000020] New Ticket test
+2023-11-14 11:44:05 [@adminNAS]
+An email was sent to it-tech9.ph@toyoflex.com: [GLPI #0000020] New Ticket test
+2023-11-14 11:44:06 [@adminNAS]
+An email was sent to it-staff6.ph@toyoflex.com: [GLPI #0000020] New Ticket test
+2023-11-14 11:44:07 [@adminNAS]
+An email was sent to it-staff8.ph@toyoflex.com: [GLPI #0000020] New Ticket test
+2023-11-14 11:44:08 [@adminNAS]
+An email was sent to it-tech10.ph@toyoflex.com: [GLPI #0000020] New Ticket test
+2023-11-14 11:44:10 [@adminNAS]
+An email was sent to it-staff5.ph@toyoflex.com: [GLPI #0000020] New Ticket test
+2023-11-14 11:44:11 [@adminNAS]
+An email was sent to it-tech7.ph@toyoflex.com: [GLPI #0000020] New Ticket test
+2023-11-14 11:44:12 [@adminNAS]
+An email was sent to tfc-iso@toyoflex.com: [GLPI #0000020] New Ticket test
+2023-11-14 11:44:13 [@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000020] New Ticket test
+2023-11-14 11:44:14 [@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000020] New Ticket test
+2023-11-14 11:44:15 [@adminNAS]
+An email was sent to it-tech4.ph@toyoflex.com: [GLPI #0000020] New Ticket test
+2023-11-14 11:44:17 [@adminNAS]
+An email was sent to it-staff4.ph@toyoflex.com: [GLPI #0000020] Validation Request Answer test
+2023-11-14 11:44:18 [@adminNAS]
+An email was sent to cebu.it.ph@toyoflex.com: [GLPI #0000020] New Followup test
+2023-11-14 11:44:19 [@adminNAS]
+An email was sent to system_admin.ph@toyoflex.com: [GLPI #0000020] New Followup test
+2023-11-14 11:44:20 [@adminNAS]
+An email was sent to it-tech4.ph@toyoflex.com: [GLPI #0000020] New Followup test
+2023-11-14 11:44:21 [@adminNAS]
+An email was sent to it-staff7.ph@toyoflex.com: [GLPI #0000020] Approvals - Waiting for approval test

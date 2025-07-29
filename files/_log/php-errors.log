@@ -1,0 +1,100 @@
+[2023-08-10 09:26:54] glpiphplog.WARNING: Test logger  
+[2023-08-11 13:21:20] glpiphplog.WARNING:   *** PHP Warning (2): Array to string conversion in /volume1/web/glpi/files/_cache/templates/2f/2f44289df00d7b60c35f5ce02fb84f2a679c36761cb03fde18e28da584725f8d.php at line 435
+  Backtrace :
+  vendor/twig/twig/src/Template.php:394              __TwigTemplate_7f8bda10b552e4252fee7fa8eb3f781d25109d766d83a2500ea2b024007580d7->doDisplay()
+  vendor/twig/twig/src/Template.php:367              Twig\Template->displayWithErrorHandling()
+  vendor/twig/twig/src/TemplateWrapper.php:47        Twig\Template->display()
+  src/Application/View/TemplateRenderer.php:184      Twig\TemplateWrapper->display()
+  src/Ticket.php:4043                                Glpi\Application\View\TemplateRenderer->display()
+  front/tracking.injector.php:105                    Ticket->showFormHelpdesk()
+  
+[2023-08-11 13:21:24] glpiphplog.WARNING:   *** PHP Warning (2): Array to string conversion in /volume1/web/glpi/files/_cache/templates/2f/2f44289df00d7b60c35f5ce02fb84f2a679c36761cb03fde18e28da584725f8d.php at line 435
+  Backtrace :
+  vendor/twig/twig/src/Template.php:394              __TwigTemplate_7f8bda10b552e4252fee7fa8eb3f781d25109d766d83a2500ea2b024007580d7->doDisplay()
+  vendor/twig/twig/src/Template.php:367              Twig\Template->displayWithErrorHandling()
+  vendor/twig/twig/src/TemplateWrapper.php:47        Twig\Template->display()
+  src/Application/View/TemplateRenderer.php:184      Twig\TemplateWrapper->display()
+  src/Ticket.php:4043                                Glpi\Application\View\TemplateRenderer->display()
+  front/tracking.injector.php:105                    Ticket->showFormHelpdesk()
+  
+[2023-08-11 13:21:28] glpiphplog.WARNING:   *** PHP Warning (2): Array to string conversion in /volume1/web/glpi/files/_cache/templates/2f/2f44289df00d7b60c35f5ce02fb84f2a679c36761cb03fde18e28da584725f8d.php at line 435
+  Backtrace :
+  vendor/twig/twig/src/Template.php:394              __TwigTemplate_7f8bda10b552e4252fee7fa8eb3f781d25109d766d83a2500ea2b024007580d7->doDisplay()
+  vendor/twig/twig/src/Template.php:367              Twig\Template->displayWithErrorHandling()
+  vendor/twig/twig/src/TemplateWrapper.php:47        Twig\Template->display()
+  src/Application/View/TemplateRenderer.php:184      Twig\TemplateWrapper->display()
+  src/Ticket.php:4043                                Glpi\Application\View\TemplateRenderer->display()
+  front/tracking.injector.php:105                    Ticket->showFormHelpdesk()
+  
+[2023-08-11 14:39:49] glpiphplog.WARNING:   *** PHP Warning (2): Undefined array key "host" in /volume1/web/glpi/src/MailCollector.php at line 1378
+  Backtrace :
+  src/MailCollector.php:393                          MailCollector->connect()
+  ajax/mailcollector.php:83                          MailCollector->displayFoldersList()
+  
+[2023-08-11 14:39:49] glpiphplog.WARNING:   *** PHP Warning (2): Undefined array key "passwd" in /volume1/web/glpi/src/MailCollector.php at line 1383
+  Backtrace :
+  src/MailCollector.php:393                          MailCollector->connect()
+  ajax/mailcollector.php:83                          MailCollector->displayFoldersList()
+  
+[2023-08-11 14:39:49] glpiphplog.CRITICAL:   *** Uncaught Exception Exception: Unsupported mail server type:. in /volume1/web/glpi/src/MailCollector.php at line 1406
+  Backtrace :
+  src/MailCollector.php:393                          MailCollector->connect()
+  ajax/mailcollector.php:83                          MailCollector->displayFoldersList()
+  
+[2023-08-16 18:09:20] glpiphplog.WARNING: Test logger  
+[2023-09-04 14:13:40] glpiphplog.ERROR:   *** PHP User Error (256): Duplicate entry '10-snmpcredential' for key 'unicity' in /volume1/web/glpi/src/DBmysql.php at line 1998
+  Backtrace :
+  src/DBmysql.php:1998                               trigger_error()
+  src/ProfileRight.php:293                           DBmysql->executeStatement()
+  src/ProfileRight.php:330                           ProfileRight::fillProfileRights()
+  src/Profile.php:233                                ProfileRight::updateProfileRights()
+  src/CommonDBTM.php:1721                            Profile->post_updateItem()
+  front/profile.form.php:85                          CommonDBTM->update()
+  
+[2023-09-14 17:38:00] glpiphplog.WARNING:   *** PHP Warning (2): Undefined array key "identifier" in /volume1/web/glpi/src/MassiveAction.php at line 389
+  Backtrace :
+  front/massiveaction.php:44                         MassiveAction->__construct()
+  
+[2023-11-13 11:14:48] glpiphplog.WARNING:   *** PHP Warning (2): Undefined array key "itemtype" in /volume1/web/glpi/src/Notification.php at line 531
+  Backtrace :
+  src/MassiveAction.php:1414                         Notification::processMassiveActionsForOneItemtype()
+  src/MassiveAction.php:1392                         MassiveAction->processForSeveralItemtypes()
+  front/massiveaction.php:59                         MassiveAction->process()
+  
+[2023-11-13 11:14:48] glpiphplog.WARNING:   *** PHP Warning (2): Undefined array key "itemtype" in /volume1/web/glpi/src/Notification.php at line 531
+  Backtrace :
+  src/MassiveAction.php:1414                         Notification::processMassiveActionsForOneItemtype()
+  src/MassiveAction.php:1392                         MassiveAction->processForSeveralItemtypes()
+  front/massiveaction.php:59                         MassiveAction->process()
+  
+[2023-11-13 11:14:48] glpiphplog.WARNING:   *** PHP Warning (2): Undefined array key "itemtype" in /volume1/web/glpi/src/Notification.php at line 531
+  Backtrace :
+  src/MassiveAction.php:1414                         Notification::processMassiveActionsForOneItemtype()
+  src/MassiveAction.php:1392                         MassiveAction->processForSeveralItemtypes()
+  front/massiveaction.php:59                         MassiveAction->process()
+  
+[2023-11-13 11:15:06] glpiphplog.WARNING:   *** PHP Warning (2): Undefined array key "itemtype" in /volume1/web/glpi/src/Notification.php at line 531
+  Backtrace :
+  src/MassiveAction.php:1414                         Notification::processMassiveActionsForOneItemtype()
+  src/MassiveAction.php:1392                         MassiveAction->processForSeveralItemtypes()
+  front/massiveaction.php:59                         MassiveAction->process()
+  
+[2023-11-13 11:16:23] glpiphplog.WARNING:   *** PHP Warning (2): Undefined array key "itemtype" in /volume1/web/glpi/src/Notification.php at line 531
+  Backtrace :
+  src/MassiveAction.php:1414                         Notification::processMassiveActionsForOneItemtype()
+  src/MassiveAction.php:1392                         MassiveAction->processForSeveralItemtypes()
+  front/massiveaction.php:59                         MassiveAction->process()
+  
+[2023-11-13 11:16:23] glpiphplog.WARNING:   *** PHP Warning (2): Undefined array key "itemtype" in /volume1/web/glpi/src/Notification.php at line 531
+  Backtrace :
+  src/MassiveAction.php:1414                         Notification::processMassiveActionsForOneItemtype()
+  src/MassiveAction.php:1392                         MassiveAction->processForSeveralItemtypes()
+  front/massiveaction.php:59                         MassiveAction->process()
+  
+[2023-11-13 11:16:23] glpiphplog.WARNING:   *** PHP Warning (2): Undefined array key "itemtype" in /volume1/web/glpi/src/Notification.php at line 531
+  Backtrace :
+  src/MassiveAction.php:1414                         Notification::processMassiveActionsForOneItemtype()
+  src/MassiveAction.php:1392                         MassiveAction->processForSeveralItemtypes()
+  front/massiveaction.php:59                         MassiveAction->process()
+  
+[2023-11-13 11:50:26] glpiphplog.WARNING: Test logger  

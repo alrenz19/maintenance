@@ -1,0 +1,101 @@
+[2023-08-10 13:54:43] glpisqllog.ERROR: DBmysql::query() in /volume1/web/glpi/src/DBmysql.php line 379
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_locations` (`entities_id`, `name`, `comment`, `locations_id`, `address`, `postcode`, `town`, `state`, `country`, `building`, `room`, `latitude`, `longitude`, `altitude`, `level`, `completename`, `date_creation`, `date_mod`) VALUES ('0', 'TCD', '', '0', '5th street 3rd avenue PEZA', '6015', 'Lapu Lapu', 'Cebu', 'Philippines', 'F1', '', '10.326318956045897', '123.9879655407568', '', '1', 'TCD', '2023-08-10 13:54:43', '2023-08-10 13:54:43')
+  Error: Duplicate entry '0-0-TCD' for key 'unicity'
+  Backtrace :
+  src/DBmysql.php:1349                               
+  src/CommonDBTM.php:722                             DBmysql->insert()
+  src/CommonDBTM.php:1323                            CommonDBTM->addToDB()
+  front/dropdown.common.form.php:62                  CommonDBTM->add()
+  front/location.form.php:39                         include()
+  {"user":"7@adminNAS"} 
+[2023-08-25 17:30:51] glpisqllog.ERROR: DBmysql::query() in /volume1/web/glpi/src/DBmysql.php line 379
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_documentcategories` (`name`, `comment`, `documentcategories_id`, `level`, `completename`, `date_creation`, `date_mod`) VALUES ('PM DOCS', '', '0', '1', 'PM DOCS', '2023-08-25 17:30:49', '2023-08-25 17:30:49')
+  Error: Duplicate entry '0-PM DOCS' for key 'unicity'
+  Backtrace :
+  src/DBmysql.php:1349                               
+  src/CommonDBTM.php:722                             DBmysql->insert()
+  src/CommonDBTM.php:1323                            CommonDBTM->addToDB()
+  front/dropdown.common.form.php:62                  CommonDBTM->add()
+  front/documentcategory.form.php:39                 include()
+  {"user":"2@adminNAS"} 
+[2023-09-04 14:13:38] glpisqllog.ERROR: DBmysql::query() in /volume1/web/glpi/src/DBmysql.php line 379
+  *** MySQL query error:
+  SQL: UPDATE `glpi_profilerights` SET `rights` = '' WHERE `id` = '925'
+  Error: Incorrect integer value: '' for column `GLPI`.`glpi_profilerights`.`rights` at row 1
+  Backtrace :
+  src/DBmysql.php:1468                               
+  src/CommonDBTM.php:686                             DBmysql->update()
+  src/CommonDBTM.php:1675                            CommonDBTM->updateInDB()
+  src/ProfileRight.php:318                           CommonDBTM->update()
+  src/Profile.php:272                                ProfileRight::updateProfileRights()
+  src/CommonDBTM.php:1324                            Profile->post_addItem()
+  front/profile.form.php:50                          CommonDBTM->add()
+  {"user":"7@adminNAS"} 
+[2023-09-04 14:13:39] glpisqllog.ERROR: DBmysql::query() in /volume1/web/glpi/src/DBmysql.php line 379
+  *** MySQL query error:
+  SQL: UPDATE `glpi_profilerights` SET `rights` = '' WHERE `id` = '926'
+  Error: Incorrect integer value: '' for column `GLPI`.`glpi_profilerights`.`rights` at row 1
+  Backtrace :
+  src/DBmysql.php:1468                               
+  src/CommonDBTM.php:686                             DBmysql->update()
+  src/CommonDBTM.php:1675                            CommonDBTM->updateInDB()
+  src/ProfileRight.php:318                           CommonDBTM->update()
+  src/Profile.php:272                                ProfileRight::updateProfileRights()
+  src/CommonDBTM.php:1324                            Profile->post_addItem()
+  front/profile.form.php:50                          CommonDBTM->add()
+  {"user":"7@adminNAS","mem_usage":"0.459\", 5.28Mio)"} 
+[2023-09-04 14:13:42] glpisqllog.ERROR: DBmysql::query() in /volume1/web/glpi/src/DBmysql.php line 379
+  *** MySQL query error:
+  SQL: UPDATE `glpi_profilerights` SET `rights` = '' WHERE `id` = '923'
+  Error: Incorrect integer value: '' for column `GLPI`.`glpi_profilerights`.`rights` at row 1
+  Backtrace :
+  src/DBmysql.php:1468                               
+  src/CommonDBTM.php:686                             DBmysql->update()
+  src/CommonDBTM.php:1675                            CommonDBTM->updateInDB()
+  src/ProfileRight.php:318                           CommonDBTM->update()
+  src/Profile.php:272                                ProfileRight::updateProfileRights()
+  src/CommonDBTM.php:1324                            Profile->post_addItem()
+  front/profile.form.php:50                          CommonDBTM->add()
+  {"user":"7@adminNAS","mem_usage":"3.406\", 5.29Mio)"} 
+[2023-09-28 19:03:00] glpisqllog.ERROR: DBmysql::query() in /volume1/web/glpi/src/DBmysql.php line 379
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_documents_items` (`itemtype`, `items_id`, `documents_id`, `entities_id`, `is_recursive`, `users_id`, `date_creation`, `date_mod`) VALUES ('Computer', '253', '1045', '0', '0', '8', '2023-09-28 19:03:00', '2023-09-28 19:03:00')
+  Error: Duplicate entry '1045-Computer-253-0' for key 'unicity'
+  Backtrace :
+  src/DBmysql.php:1349                               
+  src/CommonDBTM.php:722                             DBmysql->insert()
+  src/CommonDBTM.php:1323                            CommonDBTM->addToDB()
+  front/document_item.form.php:50                    CommonDBTM->add()
+  {"user":"8@adminNAS"} 
+[2023-09-28 19:07:07] glpisqllog.ERROR: DBmysql::query() in /volume1/web/glpi/src/DBmysql.php line 379
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_documents_items` (`itemtype`, `items_id`, `documents_id`, `entities_id`, `is_recursive`, `users_id`, `date_creation`, `date_mod`) VALUES ('Computer', '213', '1048', '0', '0', '8', '2023-09-28 19:07:07', '2023-09-28 19:07:07')
+  Error: Duplicate entry '1048-Computer-213-0' for key 'unicity'
+  Backtrace :
+  src/DBmysql.php:1349                               
+  src/CommonDBTM.php:722                             DBmysql->insert()
+  src/CommonDBTM.php:1323                            CommonDBTM->addToDB()
+  front/document_item.form.php:50                    CommonDBTM->add()
+  {"user":"8@adminNAS"} 
+[2023-09-28 19:24:56] glpisqllog.ERROR: DBmysql::query() in /volume1/web/glpi/src/DBmysql.php line 379
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_documents_items` (`itemtype`, `items_id`, `documents_id`, `entities_id`, `is_recursive`, `users_id`, `date_creation`, `date_mod`) VALUES ('Computer', '292', '1086', '0', '0', '8', '2023-09-28 19:24:56', '2023-09-28 19:24:56')
+  Error: Duplicate entry '1086-Computer-292-0' for key 'unicity'
+  Backtrace :
+  src/DBmysql.php:1349                               
+  src/CommonDBTM.php:722                             DBmysql->insert()
+  src/CommonDBTM.php:1323                            CommonDBTM->addToDB()
+  front/document_item.form.php:50                    CommonDBTM->add()
+  {"user":"8@adminNAS"} 
+[2023-09-28 19:39:14] glpisqllog.ERROR: DBmysql::query() in /volume1/web/glpi/src/DBmysql.php line 379
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_documents_items` (`itemtype`, `items_id`, `documents_id`, `entities_id`, `is_recursive`, `users_id`, `date_creation`, `date_mod`) VALUES ('Computer', '395', '1099', '0', '0', '8', '2023-09-28 19:39:13', '2023-09-28 19:39:13')
+  Error: Duplicate entry '1099-Computer-395-0' for key 'unicity'
+  Backtrace :
+  src/DBmysql.php:1349                               
+  src/CommonDBTM.php:722                             DBmysql->insert()
+  src/CommonDBTM.php:1323                            CommonDBTM->addToDB()
+  front/document_item.form.php:50                    CommonDBTM->add()
+  {"user":"8@adminNAS"} 

@@ -1,0 +1,938 @@
+2023-08-10 14:12:01 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000001] New Task Email, Error: Could not instantiate mail function.
+2023-08-10 14:12:12 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000001] New Ticket Email, Error: Could not instantiate mail function.
+2023-08-10 14:12:21 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000001] New Followup Email, Error: Could not instantiate mail function.
+2023-08-10 14:12:28 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000001] Ticket Solved Email, Error: Could not instantiate mail function.
+2023-08-10 14:12:36 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000001] Closing of the Ticket Email, Error: Could not instantiate mail function.
+2023-08-10 14:12:48 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000001] New Followup Email, Error: Could not instantiate mail function.
+2023-08-10 14:20:01 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000001] New Task Email, Error: Could not instantiate mail function.
+2023-08-10 14:20:07 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000001] New Ticket Email, Error: Could not instantiate mail function.
+2023-08-10 14:20:13 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000001] New Followup Email, Error: Could not instantiate mail function.
+2023-08-10 14:20:19 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000001] Ticket Solved Email, Error: Could not instantiate mail function.
+2023-08-10 14:20:24 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000001] Closing of the Ticket Email, Error: Could not instantiate mail function.
+2023-08-10 14:20:31 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000002] New Ticket Laptop, Error: Could not instantiate mail function.
+2023-08-10 14:20:37 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000001] New Followup Email, Error: Could not instantiate mail function.
+2023-08-10 14:20:44 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000002] Ticket Solved Laptop, Error: Could not instantiate mail function.
+2023-08-10 14:28:47 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000001] New Task Email, Error: Could not instantiate mail function.
+2023-08-10 14:28:53 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000001] New Ticket Email, Error: Could not instantiate mail function.
+2023-08-10 14:28:59 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000001] New Followup Email, Error: Could not instantiate mail function.
+2023-08-10 14:29:04 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000001] Ticket Solved Email, Error: Could not instantiate mail function.
+2023-08-10 14:29:11 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000001] Closing of the Ticket Email, Error: Could not instantiate mail function.
+2023-08-10 14:29:17 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000002] New Ticket Laptop, Error: Could not instantiate mail function.
+2023-08-10 14:29:22 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000001] New Followup Email, Error: Could not instantiate mail function.
+2023-08-10 14:29:28 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000002] Ticket Solved Laptop, Error: Could not instantiate mail function.
+2023-08-10 14:53:56 [2@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000001] New Task Email, Error: Could not instantiate mail function.
+2023-08-10 14:54:03 [2@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000001] New Ticket Email, Error: Could not instantiate mail function.
+2023-08-10 14:54:08 [2@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000001] New Followup Email, Error: Could not instantiate mail function.
+2023-08-10 14:54:14 [2@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000001] Ticket Solved Email, Error: Could not instantiate mail function.
+2023-08-10 14:54:20 [2@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000001] Closing of the Ticket Email, Error: Could not instantiate mail function.
+2023-08-10 14:54:25 [2@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000002] New Ticket Laptop, Error: Could not instantiate mail function.
+2023-08-10 14:54:31 [2@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000001] New Followup Email, Error: Could not instantiate mail function.
+2023-08-10 14:54:37 [2@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000002] Ticket Solved Laptop, Error: Could not instantiate mail function.
+2023-08-10 15:46:29 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000001] New Task Email, Error: Could not instantiate mail function.
+2023-08-10 15:46:36 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000001] New Ticket Email, Error: Could not instantiate mail function.
+2023-08-10 15:46:42 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000001] New Followup Email, Error: Could not instantiate mail function.
+2023-08-10 15:46:47 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000001] Ticket Solved Email, Error: Could not instantiate mail function.
+2023-08-10 15:46:54 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000001] Closing of the Ticket Email, Error: Could not instantiate mail function.
+2023-08-10 15:47:00 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000002] New Ticket Laptop, Error: Could not instantiate mail function.
+2023-08-10 15:47:07 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000001] New Followup Email, Error: Could not instantiate mail function.
+2023-08-10 15:47:13 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000002] Ticket Solved Laptop, Error: Could not instantiate mail function.
+2023-08-10 15:47:18 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000002] Closing of the Ticket Laptop, Error: Could not instantiate mail function.
+2023-08-10 15:47:25 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000002] New Followup Laptop, Error: Could not instantiate mail function.
+2023-08-10 15:47:34 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000003] New Ticket Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 15:47:41 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000003] Ticket Deleted Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 15:47:51 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000004] New Ticket Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 15:47:59 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 15:48:08 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 15:48:16 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 16:20:41 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000004] Ticket Solved Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 16:20:49 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000001] New Task Email, Error: Could not instantiate mail function.
+2023-08-10 16:20:49 [@adminNAS]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000001] New Task Email
+2023-08-10 16:20:55 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000001] New Ticket Email, Error: Could not instantiate mail function.
+2023-08-10 16:20:55 [@adminNAS]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000001] New Ticket Email
+2023-08-10 16:21:03 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000001] New Followup Email, Error: Could not instantiate mail function.
+2023-08-10 16:21:03 [@adminNAS]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000001] New Followup Email
+2023-08-10 16:21:08 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000001] Ticket Solved Email, Error: Could not instantiate mail function.
+2023-08-10 16:21:08 [@adminNAS]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000001] Ticket Solved Email
+2023-08-10 16:21:14 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000001] Closing of the Ticket Email, Error: Could not instantiate mail function.
+2023-08-10 16:21:14 [@adminNAS]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000001] Closing of the Ticket Email
+2023-08-10 16:21:20 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000002] New Ticket Laptop, Error: Could not instantiate mail function.
+2023-08-10 16:21:26 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000001] New Followup Email, Error: Could not instantiate mail function.
+2023-08-10 16:21:26 [@adminNAS]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000001] New Followup Email
+2023-08-10 16:21:33 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000002] Ticket Solved Laptop, Error: Could not instantiate mail function.
+2023-08-10 16:21:38 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000002] Closing of the Ticket Laptop, Error: Could not instantiate mail function.
+2023-08-10 16:21:44 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000002] New Followup Laptop, Error: Could not instantiate mail function.
+2023-08-10 16:21:50 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000003] New Ticket Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 16:21:55 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000004] Closing of the Ticket Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 16:22:04 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 16:22:13 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000003] Ticket Deleted Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 16:22:19 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000004] New Ticket Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 16:22:24 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 16:22:30 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 16:22:36 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 17:23:44 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000004] Ticket Solved Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 17:23:49 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000002] New Ticket Laptop, Error: Could not instantiate mail function.
+2023-08-10 17:23:49 [7@adminNAS]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000002] New Ticket Laptop
+2023-08-10 17:23:55 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000002] Ticket Solved Laptop, Error: Could not instantiate mail function.
+2023-08-10 17:23:55 [7@adminNAS]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000002] Ticket Solved Laptop
+2023-08-10 17:24:01 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000002] Closing of the Ticket Laptop, Error: Could not instantiate mail function.
+2023-08-10 17:24:07 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000002] New Followup Laptop, Error: Could not instantiate mail function.
+2023-08-10 17:24:12 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000003] New Ticket Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 17:24:18 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000004] Closing of the Ticket Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 17:24:23 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 17:24:30 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000003] Ticket Deleted Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 17:24:35 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000004] New Ticket Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 17:24:41 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 17:24:46 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-10 17:24:52 [7@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 08:43:55 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000004] Ticket Solved Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 08:44:01 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000002] Closing of the Ticket Laptop, Error: Could not instantiate mail function.
+2023-08-11 08:44:07 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000002] New Followup Laptop, Error: Could not instantiate mail function.
+2023-08-11 08:44:12 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000003] New Ticket Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 08:44:18 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000004] Closing of the Ticket Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 08:44:24 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 08:44:29 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000003] Ticket Deleted Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 08:44:35 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000004] New Ticket Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 08:44:41 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 08:44:46 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 08:44:52 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:16:31 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000004] Ticket Solved Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:16:37 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000002] Closing of the Ticket Laptop, Error: Could not instantiate mail function.
+2023-08-11 13:16:42 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000002] New Followup Laptop, Error: Could not instantiate mail function.
+2023-08-11 13:16:48 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000003] New Ticket Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:16:53 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000004] Closing of the Ticket Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:16:59 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:17:04 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000003] Ticket Deleted Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:17:10 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000004] New Ticket Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:17:16 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:17:22 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:17:28 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:31:56 [12@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000004] Ticket Solved Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:32:02 [12@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000002] Closing of the Ticket Laptop, Error: Could not instantiate mail function.
+2023-08-11 13:32:02 [12@adminNAS]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000002] Closing of the Ticket Laptop
+2023-08-11 13:32:08 [12@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000002] New Followup Laptop, Error: Could not instantiate mail function.
+2023-08-11 13:32:08 [12@adminNAS]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000002] New Followup Laptop
+2023-08-11 13:32:15 [12@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000003] New Ticket Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:32:15 [12@adminNAS]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000003] New Ticket Install Malsy
+2023-08-11 13:32:21 [12@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000004] Closing of the Ticket Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:32:27 [12@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:32:32 [12@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000003] Ticket Deleted Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:32:32 [12@adminNAS]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000003] Ticket Deleted Install Malsy
+2023-08-11 13:32:39 [12@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000004] New Ticket Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:32:39 [12@adminNAS]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000004] New Ticket Install Malsy
+2023-08-11 13:32:46 [12@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:32:46 [12@adminNAS]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000004] New Followup Install Malsy
+2023-08-11 13:32:52 [12@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:32:52 [12@adminNAS]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000004] New Followup Install Malsy
+2023-08-11 13:32:58 [12@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:32:58 [12@adminNAS]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000004] New Followup Install Malsy
+2023-08-11 13:42:57 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000004] Ticket Solved Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:42:57 [@adminNAS]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000004] Ticket Solved Install Malsy
+2023-08-11 13:43:04 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000004] Closing of the Ticket Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:43:04 [@adminNAS]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000004] Closing of the Ticket Install Malsy
+2023-08-11 13:43:10 [@adminNAS]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000004] New Followup Install Malsy, Error: Could not instantiate mail function.
+2023-08-11 13:43:10 [@adminNAS]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000004] New Followup Install Malsy
+2023-08-14 13:17:44 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000005] New Ticket test ticket, Error: Could not instantiate mail function.
+2023-08-14 13:26:56 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000005] Ticket Solved test ticket, Error: Could not instantiate mail function.
+2023-08-14 13:27:04 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000005] New Ticket test ticket, Error: Could not instantiate mail function.
+2023-08-14 13:27:12 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000005] Closing of the Ticket test ticket, Error: Could not instantiate mail function.
+2023-08-14 13:41:27 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000006] New Ticket test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 13:41:41 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000005] Ticket Solved test ticket, Error: Could not instantiate mail function.
+2023-08-14 13:41:47 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000005] New Ticket test ticket, Error: Could not instantiate mail function.
+2023-08-14 13:41:52 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000005] Closing of the Ticket test ticket, Error: Could not instantiate mail function.
+2023-08-14 13:41:58 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000006] Ticket Solved test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 13:42:06 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000006] Closing of the Ticket test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 13:42:14 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000006] New Followup test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:00:05 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000001] Ticket Deleted Email, Error: Could not instantiate mail function.
+2023-08-14 14:00:11 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000002] Ticket Deleted Laptop, Error: Could not instantiate mail function.
+2023-08-14 14:00:16 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000004] Ticket Deleted Install Malsy, Error: Could not instantiate mail function.
+2023-08-14 14:00:22 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000005] Ticket Deleted test ticket, Error: Could not instantiate mail function.
+2023-08-14 14:00:28 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000006] Ticket Deleted test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:00:35 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000006] New Ticket test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:00:42 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000005] Ticket Solved test ticket, Error: Could not instantiate mail function.
+2023-08-14 14:00:48 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000005] New Ticket test ticket, Error: Could not instantiate mail function.
+2023-08-14 14:00:55 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000005] Closing of the Ticket test ticket, Error: Could not instantiate mail function.
+2023-08-14 14:01:00 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000006] Ticket Solved test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:01:07 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000006] Closing of the Ticket test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:01:13 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000006] New Followup test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:06:58 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000007] New Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-14 14:07:08 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000001] Ticket Deleted Email, Error: Could not instantiate mail function.
+2023-08-14 14:07:14 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000002] Ticket Deleted Laptop, Error: Could not instantiate mail function.
+2023-08-14 14:07:19 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000004] Ticket Deleted Install Malsy, Error: Could not instantiate mail function.
+2023-08-14 14:07:25 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000005] Ticket Deleted test ticket, Error: Could not instantiate mail function.
+2023-08-14 14:07:31 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000006] Ticket Deleted test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:07:36 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000006] New Ticket test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:07:42 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000005] Ticket Solved test ticket, Error: Could not instantiate mail function.
+2023-08-14 14:07:47 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000005] New Ticket test ticket, Error: Could not instantiate mail function.
+2023-08-14 14:07:53 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000005] Closing of the Ticket test ticket, Error: Could not instantiate mail function.
+2023-08-14 14:07:58 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000006] Ticket Solved test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:08:04 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000006] Closing of the Ticket test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:08:09 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000006] New Followup test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:13:30 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000007] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-14 14:13:38 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000007] New Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-14 14:13:44 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000001] Ticket Deleted Email, Error: Could not instantiate mail function.
+2023-08-14 14:13:50 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000002] Ticket Deleted Laptop, Error: Could not instantiate mail function.
+2023-08-14 14:13:56 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000004] Ticket Deleted Install Malsy, Error: Could not instantiate mail function.
+2023-08-14 14:14:02 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000005] Ticket Deleted test ticket, Error: Could not instantiate mail function.
+2023-08-14 14:14:07 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000006] Ticket Deleted test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:14:13 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000006] New Ticket test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:14:19 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000005] Ticket Solved test ticket, Error: Could not instantiate mail function.
+2023-08-14 14:14:24 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000005] New Ticket test ticket, Error: Could not instantiate mail function.
+2023-08-14 14:14:24 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000005] New Ticket test ticket
+2023-08-14 14:14:30 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000005] Closing of the Ticket test ticket, Error: Could not instantiate mail function.
+2023-08-14 14:14:36 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000006] Ticket Solved test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:14:41 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000006] Closing of the Ticket test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:14:47 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000006] New Followup test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:19:46 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000007] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-14 14:19:52 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000007] New Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-14 14:19:57 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000001] Ticket Deleted Email, Error: Could not instantiate mail function.
+2023-08-14 14:20:03 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000002] Ticket Deleted Laptop, Error: Could not instantiate mail function.
+2023-08-14 14:20:09 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000004] Ticket Deleted Install Malsy, Error: Could not instantiate mail function.
+2023-08-14 14:20:14 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000005] Ticket Deleted test ticket, Error: Could not instantiate mail function.
+2023-08-14 14:20:20 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000006] Ticket Deleted test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:20:25 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000006] New Ticket test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:20:31 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000005] Ticket Solved test ticket, Error: Could not instantiate mail function.
+2023-08-14 14:20:31 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000005] Ticket Solved test ticket
+2023-08-14 14:20:37 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000005] Closing of the Ticket test ticket, Error: Could not instantiate mail function.
+2023-08-14 14:20:37 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000005] Closing of the Ticket test ticket
+2023-08-14 14:20:43 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000006] Ticket Solved test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:20:48 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000006] Closing of the Ticket test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:20:54 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000006] New Followup test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:29:56 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000007] Ticket Solved test ticket 3, Error: Could not instantiate mail function.
+2023-08-14 14:30:05 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000007] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-14 14:30:10 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000007] New Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-14 14:30:15 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000001] Ticket Deleted Email, Error: Could not instantiate mail function.
+2023-08-14 14:30:21 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000002] Ticket Deleted Laptop, Error: Could not instantiate mail function.
+2023-08-14 14:30:27 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000004] Ticket Deleted Install Malsy, Error: Could not instantiate mail function.
+2023-08-14 14:30:32 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000005] Ticket Deleted test ticket, Error: Could not instantiate mail function.
+2023-08-14 14:30:38 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000006] Ticket Deleted test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:30:44 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000006] New Ticket test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:30:44 [7@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000006] New Ticket test ticket 2
+2023-08-14 14:30:51 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000006] Ticket Solved test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:30:51 [7@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000006] Ticket Solved test ticket 2
+2023-08-14 14:30:58 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000006] Closing of the Ticket test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:30:58 [7@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000006] Closing of the Ticket test ticket 2
+2023-08-14 14:31:04 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000006] New Followup test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 14:31:04 [7@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000006] New Followup test ticket 2
+2023-08-14 15:43:08 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000007] Closing of the Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-14 15:43:16 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000007] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-14 15:43:24 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000007] Ticket Solved test ticket 3, Error: Could not instantiate mail function.
+2023-08-14 15:43:29 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000007] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-14 15:43:35 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000007] New Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-14 15:43:40 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000001] Ticket Deleted Email, Error: Could not instantiate mail function.
+2023-08-14 15:43:40 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000001] Ticket Deleted Email
+2023-08-14 15:43:46 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000002] Ticket Deleted Laptop, Error: Could not instantiate mail function.
+2023-08-14 15:43:46 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000002] Ticket Deleted Laptop
+2023-08-14 15:43:52 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000004] Ticket Deleted Install Malsy, Error: Could not instantiate mail function.
+2023-08-14 15:43:52 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000004] Ticket Deleted Install Malsy
+2023-08-14 15:43:58 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000005] Ticket Deleted test ticket, Error: Could not instantiate mail function.
+2023-08-14 15:43:58 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000005] Ticket Deleted test ticket
+2023-08-14 15:44:04 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000006] Ticket Deleted test ticket 2, Error: Could not instantiate mail function.
+2023-08-14 15:44:04 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000006] Ticket Deleted test ticket 2
+2023-08-14 15:44:10 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000007] Ticket Deleted test ticket 3, Error: Could not instantiate mail function.
+2023-08-15 10:39:43 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000007] Closing of the Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-15 10:39:49 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000007] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-15 10:39:55 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000007] Ticket Solved test ticket 3, Error: Could not instantiate mail function.
+2023-08-15 10:40:01 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000007] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-15 10:40:06 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000007] New Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-15 10:40:06 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000007] New Ticket test ticket 3
+2023-08-15 10:40:12 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000007] Ticket Deleted test ticket 3, Error: Could not instantiate mail function.
+2023-08-15 10:40:18 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000008] New Ticket MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-15 11:02:32 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000008] New Followup MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-15 11:02:39 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000007] Closing of the Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-15 11:02:45 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000007] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-15 11:02:50 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000007] Ticket Solved test ticket 3, Error: Could not instantiate mail function.
+2023-08-15 11:02:56 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000007] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-15 11:02:56 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000007] New Followup test ticket 3
+2023-08-15 11:03:02 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000007] Ticket Deleted test ticket 3, Error: Could not instantiate mail function.
+2023-08-15 11:03:07 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000008] New Ticket MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-15 11:03:13 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000008] Ticket Solved MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-15 11:03:21 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000008] Closing of the Ticket MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-15 11:03:31 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000008] New Followup MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 10:47:37 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000008] New Followup MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 10:47:44 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000007] Closing of the Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-16 10:47:50 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000007] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-16 10:47:55 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000007] Ticket Solved test ticket 3, Error: Could not instantiate mail function.
+2023-08-16 10:48:01 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000007] Ticket Deleted test ticket 3, Error: Could not instantiate mail function.
+2023-08-16 10:48:06 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000008] New Ticket MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 10:48:12 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000008] Ticket Solved MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 10:48:17 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000008] Closing of the Ticket MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 10:48:23 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000008] New Followup MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 14:34:44 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000008] New Followup MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 14:34:50 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000007] Closing of the Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-16 14:34:57 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000007] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-16 14:35:03 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000007] Ticket Solved test ticket 3, Error: Could not instantiate mail function.
+2023-08-16 14:35:03 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000007] Ticket Solved test ticket 3
+2023-08-16 14:35:10 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000007] Ticket Deleted test ticket 3, Error: Could not instantiate mail function.
+2023-08-16 14:35:17 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000008] New Ticket MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 14:35:24 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000008] Ticket Solved MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 14:35:31 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000008] Closing of the Ticket MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 14:35:38 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000008] New Followup MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 14:35:44 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000009] New Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-16 15:30:14 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000008] New Followup MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 15:30:19 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000007] Closing of the Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-16 15:30:19 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000007] Closing of the Ticket test ticket 3
+2023-08-16 15:30:25 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000007] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-16 15:30:25 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000007] New Followup test ticket 3
+2023-08-16 15:30:32 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000007] Ticket Deleted test ticket 3, Error: Could not instantiate mail function.
+2023-08-16 15:30:32 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000007] Ticket Deleted test ticket 3
+2023-08-16 15:30:38 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000008] New Ticket MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 15:30:44 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000008] Ticket Solved MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 15:30:49 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000008] Closing of the Ticket MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 15:30:55 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000008] New Followup MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 15:31:00 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000009] New Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-16 15:46:55 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000008] New Followup MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 15:47:00 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000008] New Ticket MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 15:47:00 [17@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000008] New Ticket MS TEAMS PS RESET
+2023-08-16 15:47:06 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000008] Ticket Solved MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 15:47:12 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000008] Closing of the Ticket MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 15:47:18 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000008] New Followup MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 15:47:24 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000009] New Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-16 15:52:16 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000008] New Followup MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 15:52:16 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000008] New Followup MS TEAMS PS RESET
+2023-08-16 15:52:22 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000008] Ticket Solved MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 15:52:22 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000008] Ticket Solved MS TEAMS PS RESET
+2023-08-16 15:52:28 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000008] Closing of the Ticket MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 15:52:28 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000008] Closing of the Ticket MS TEAMS PS RESET
+2023-08-16 15:52:34 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000008] New Followup MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-16 15:52:34 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000008] New Followup MS TEAMS PS RESET
+2023-08-16 15:52:42 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000009] New Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-16 15:58:39 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000009] New Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-16 17:56:38 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000009] New Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-16 17:56:38 [2@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000009] New Ticket test ticket 3
+2023-08-18 16:14:26 [12@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000009] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-18 16:20:14 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000009] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-18 16:20:22 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000010] New Ticket MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-18 16:32:55 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-18 16:33:04 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-18 16:33:12 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000010] New Followup MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-18 16:33:20 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-18 16:33:29 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000011] New Ticket test, Error: Could not instantiate mail function.
+2023-08-18 16:33:38 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000011] New Followup test, Error: Could not instantiate mail function.
+2023-08-18 16:33:46 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000009] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-18 16:33:52 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000010] New Ticket MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-18 16:33:58 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000011] Ticket Solved test, Error: Could not instantiate mail function.
+2023-08-18 16:40:16 [12@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000009] Ticket Solved test ticket 3, Error: Could not instantiate mail function.
+2023-08-18 16:40:22 [12@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000009] Closing of the Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-18 16:40:27 [12@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000009] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-18 16:40:33 [12@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-18 16:40:38 [12@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-18 16:40:44 [12@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000010] New Followup MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-18 16:40:50 [12@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-18 16:40:56 [12@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000011] New Ticket test, Error: Could not instantiate mail function.
+2023-08-18 16:41:01 [12@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000011] New Followup test, Error: Could not instantiate mail function.
+2023-08-18 16:41:07 [12@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000009] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-18 16:41:12 [12@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000010] New Ticket MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-18 16:41:19 [12@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000011] Ticket Solved test, Error: Could not instantiate mail function.
+2023-08-19 08:16:33 [10@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000009] Ticket Solved test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 08:16:39 [10@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000009] Closing of the Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 08:16:45 [10@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000009] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 08:16:50 [10@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 08:16:56 [10@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 08:17:01 [10@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000010] New Followup MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 08:17:07 [10@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 08:17:12 [10@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000011] New Ticket test, Error: Could not instantiate mail function.
+2023-08-19 08:17:17 [10@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000011] New Followup test, Error: Could not instantiate mail function.
+2023-08-19 08:17:23 [10@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000009] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 08:17:29 [10@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000010] New Ticket MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 08:17:34 [10@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000011] Ticket Solved test, Error: Could not instantiate mail function.
+2023-08-19 11:22:41 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000009] Ticket Solved test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 11:22:47 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000009] Closing of the Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 11:22:52 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000009] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 11:22:58 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 11:23:04 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 11:23:09 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000010] New Followup MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 11:23:14 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 11:23:20 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000011] New Ticket test, Error: Could not instantiate mail function.
+2023-08-19 11:23:25 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000011] New Followup test, Error: Could not instantiate mail function.
+2023-08-19 11:23:31 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000009] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 11:23:31 [2@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000009] New Followup test ticket 3
+2023-08-19 11:23:37 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000010] New Ticket MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 11:23:42 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000011] Ticket Solved test, Error: Could not instantiate mail function.
+2023-08-19 11:23:48 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000011] Closing of the Ticket test, Error: Could not instantiate mail function.
+2023-08-19 11:23:55 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 11:24:03 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000008] Ticket Deleted MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-19 11:24:09 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000009] Ticket Deleted test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 11:24:14 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000010] Ticket Deleted MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 11:24:20 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000011] Ticket Deleted test, Error: Could not instantiate mail function.
+2023-08-19 11:24:25 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000012] New Task test 4, Error: Could not instantiate mail function.
+2023-08-19 11:24:34 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000012] New Ticket test 4, Error: Could not instantiate mail function.
+2023-08-19 11:24:45 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000012] New Followup test 4, Error: Could not instantiate mail function.
+2023-08-19 11:24:50 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000012] Ticket Solved test 4, Error: Could not instantiate mail function.
+2023-08-19 11:24:56 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000012] Closing of the Ticket test 4, Error: Could not instantiate mail function.
+2023-08-19 11:25:01 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 5 retries remaining. Message: [GLPI #0000012] New Followup test 4, Error: Could not instantiate mail function.
+2023-08-19 13:39:41 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000009] Ticket Solved test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 13:39:46 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000009] Closing of the Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 13:39:52 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000009] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 13:39:57 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 13:40:03 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 13:40:08 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000010] New Followup MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 13:40:14 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 13:40:19 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000011] New Ticket test, Error: Could not instantiate mail function.
+2023-08-19 13:40:25 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000011] New Followup test, Error: Could not instantiate mail function.
+2023-08-19 13:40:30 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000010] New Ticket MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 13:40:30 [2@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000010] New Ticket MS TEAMS INSTALLATION
+2023-08-19 13:40:36 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000011] Ticket Solved test, Error: Could not instantiate mail function.
+2023-08-19 13:40:42 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000011] Closing of the Ticket test, Error: Could not instantiate mail function.
+2023-08-19 13:40:49 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 13:40:55 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000008] Ticket Deleted MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-19 13:41:01 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000009] Ticket Deleted test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 13:41:07 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000010] Ticket Deleted MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 13:41:14 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000011] Ticket Deleted test, Error: Could not instantiate mail function.
+2023-08-19 13:41:21 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000012] New Task test 4, Error: Could not instantiate mail function.
+2023-08-19 13:41:27 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000012] New Ticket test 4, Error: Could not instantiate mail function.
+2023-08-19 13:41:33 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000012] New Followup test 4, Error: Could not instantiate mail function.
+2023-08-19 13:41:39 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000012] Ticket Solved test 4, Error: Could not instantiate mail function.
+2023-08-19 13:41:45 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000012] Closing of the Ticket test 4, Error: Could not instantiate mail function.
+2023-08-19 13:41:51 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 4 retries remaining. Message: [GLPI #0000012] New Followup test 4, Error: Could not instantiate mail function.
+2023-08-19 14:49:11 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000009] Ticket Solved test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 14:49:17 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000009] Closing of the Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 14:49:23 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000009] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 14:49:29 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 14:49:29 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION
+2023-08-19 14:49:37 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 14:49:37 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION
+2023-08-19 14:49:43 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000010] New Followup MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 14:49:43 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000010] New Followup MS TEAMS INSTALLATION
+2023-08-19 14:49:50 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 14:49:50 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000010] Ticket Solved MS TEAMS INSTALLATION
+2023-08-19 14:49:56 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000011] New Ticket test, Error: Could not instantiate mail function.
+2023-08-19 14:49:56 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000011] New Ticket test
+2023-08-19 14:50:04 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000011] New Followup test, Error: Could not instantiate mail function.
+2023-08-19 14:50:04 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000011] New Followup test
+2023-08-19 14:50:11 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000011] Ticket Solved test, Error: Could not instantiate mail function.
+2023-08-19 14:50:11 [@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000011] Ticket Solved test
+2023-08-19 14:50:17 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000011] Closing of the Ticket test, Error: Could not instantiate mail function.
+2023-08-19 14:50:24 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 14:50:29 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000008] Ticket Deleted MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-19 14:50:35 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000009] Ticket Deleted test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 14:50:41 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000010] Ticket Deleted MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 14:50:47 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000011] Ticket Deleted test, Error: Could not instantiate mail function.
+2023-08-19 14:50:54 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000012] New Task test 4, Error: Could not instantiate mail function.
+2023-08-19 14:51:00 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000012] New Ticket test 4, Error: Could not instantiate mail function.
+2023-08-19 14:51:06 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000012] New Followup test 4, Error: Could not instantiate mail function.
+2023-08-19 14:51:13 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000012] Ticket Solved test 4, Error: Could not instantiate mail function.
+2023-08-19 14:51:20 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000012] Closing of the Ticket test 4, Error: Could not instantiate mail function.
+2023-08-19 14:51:27 [@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 3 retries remaining. Message: [GLPI #0000012] New Followup test 4, Error: Could not instantiate mail function.
+2023-08-19 15:18:34 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000009] Ticket Solved test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 15:18:34 [2@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000009] Ticket Solved test ticket 3
+2023-08-19 15:18:40 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000009] Closing of the Ticket test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 15:18:40 [2@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000009] Closing of the Ticket test ticket 3
+2023-08-19 15:18:47 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000009] New Followup test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 15:18:47 [2@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000009] New Followup test ticket 3
+2023-08-19 15:18:53 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000011] Closing of the Ticket test, Error: Could not instantiate mail function.
+2023-08-19 15:18:59 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 15:19:04 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000008] Ticket Deleted MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-19 15:19:10 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000009] Ticket Deleted test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 15:19:15 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000010] Ticket Deleted MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 15:19:21 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000011] Ticket Deleted test, Error: Could not instantiate mail function.
+2023-08-19 15:19:26 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000012] New Task test 4, Error: Could not instantiate mail function.
+2023-08-19 15:19:32 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000012] New Ticket test 4, Error: Could not instantiate mail function.
+2023-08-19 15:19:37 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000012] New Followup test 4, Error: Could not instantiate mail function.
+2023-08-19 15:19:44 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000012] Ticket Solved test 4, Error: Could not instantiate mail function.
+2023-08-19 15:19:51 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000012] Closing of the Ticket test 4, Error: Could not instantiate mail function.
+2023-08-19 15:19:56 [2@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 2 retries remaining. Message: [GLPI #0000012] New Followup test 4, Error: Could not instantiate mail function.
+2023-08-19 17:03:57 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000011] Closing of the Ticket test, Error: Could not instantiate mail function.
+2023-08-19 17:04:03 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 17:04:09 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000008] Ticket Deleted MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-19 17:04:15 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000009] Ticket Deleted test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 17:04:21 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000010] Ticket Deleted MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 17:04:26 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000011] Ticket Deleted test, Error: Could not instantiate mail function.
+2023-08-19 17:04:32 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000012] New Task test 4, Error: Could not instantiate mail function.
+2023-08-19 17:04:38 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000012] New Ticket test 4, Error: Could not instantiate mail function.
+2023-08-19 17:04:44 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000012] New Followup test 4, Error: Could not instantiate mail function.
+2023-08-19 17:04:49 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000012] Ticket Solved test 4, Error: Could not instantiate mail function.
+2023-08-19 17:04:55 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000012] Closing of the Ticket test 4, Error: Could not instantiate mail function.
+2023-08-19 17:05:02 [7@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 1 retries remaining. Message: [GLPI #0000012] New Followup test 4, Error: Could not instantiate mail function.
+2023-08-19 17:46:35 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000011] Closing of the Ticket test, Error: Could not instantiate mail function.
+2023-08-19 17:46:35 [17@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000011] Closing of the Ticket test
+2023-08-19 17:46:41 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 17:46:41 [17@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000010] Closing of the Ticket MS TEAMS INSTALLATION
+2023-08-19 17:46:49 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000008] Ticket Deleted MS TEAMS PS RESET, Error: Could not instantiate mail function.
+2023-08-19 17:46:49 [17@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000008] Ticket Deleted MS TEAMS PS RESET
+2023-08-19 17:46:56 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000009] Ticket Deleted test ticket 3, Error: Could not instantiate mail function.
+2023-08-19 17:46:56 [17@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000009] Ticket Deleted test ticket 3
+2023-08-19 17:47:04 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000010] Ticket Deleted MS TEAMS INSTALLATION, Error: Could not instantiate mail function.
+2023-08-19 17:47:04 [17@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000010] Ticket Deleted MS TEAMS INSTALLATION
+2023-08-19 17:47:10 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000011] Ticket Deleted test, Error: Could not instantiate mail function.
+2023-08-19 17:47:10 [17@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000011] Ticket Deleted test
+2023-08-19 17:47:16 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000012] New Task test 4, Error: Could not instantiate mail function.
+2023-08-19 17:47:16 [17@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000012] New Task test 4
+2023-08-19 17:47:23 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000012] New Ticket test 4, Error: Could not instantiate mail function.
+2023-08-19 17:47:23 [17@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000012] New Ticket test 4
+2023-08-19 17:47:31 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000012] New Followup test 4, Error: Could not instantiate mail function.
+2023-08-19 17:47:31 [17@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000012] New Followup test 4
+2023-08-19 17:47:38 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000012] Ticket Solved test 4, Error: Could not instantiate mail function.
+2023-08-19 17:47:38 [17@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000012] Ticket Solved test 4
+2023-08-19 17:47:44 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000012] Closing of the Ticket test 4, Error: Could not instantiate mail function.
+2023-08-19 17:47:44 [17@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000012] Closing of the Ticket test 4
+2023-08-19 17:47:53 [17@adminNAS]
+Warning: an email was undeliverable to cebu.it@localhost with 0 retries remaining. Message: [GLPI #0000012] New Followup test 4, Error: Could not instantiate mail function.
+2023-08-19 17:47:53 [17@adminNAS]
+Fatal error: giving up delivery of email to cebu.it@localhost: [GLPI #0000012] New Followup test 4
